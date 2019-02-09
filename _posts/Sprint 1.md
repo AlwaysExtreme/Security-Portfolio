@@ -1,5 +1,5 @@
 ---
-title: Submission 1: Title Text
+title: Submission 1: Cyber Security: An Offensive Mindset
 tags: Cybersecurity,  Sprint 1
 ---
 
@@ -15,7 +15,7 @@ Key objectives I’d like to achieve are:
 
 
 
-Please feel free to [send me email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
+Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
 
 <!--more-->
 
