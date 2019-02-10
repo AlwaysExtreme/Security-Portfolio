@@ -97,7 +97,7 @@ Took it in my stride increasing my confidence in knowing that when future situat
 
 ### 3) Apply technical skills to develop, model and/or evaluate designs.
 Participated in technical class discussions, presented a group research project to the class.
-[Artefact 1: Group Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08-01_21_12-Window.png)
+[Artefact 1: Group Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08_01_21_12-Window.png)
 Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. Began the configuration of my Kali Linux box [Artefact 2: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
 I explained the issue in depth and brought up interesting terminology such as heap spraying.
 I further understood what was needed of me to succeed in this studio.
