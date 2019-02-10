@@ -20,10 +20,16 @@ Throughout university I have been eager to learn as much about Cyber Security as
 Key objectives I’d like to achieve are:
 
   > Further research exploit methods
-  >	Start doing Capture The Flags (CTFs)
-  >	Start hunting Bug Bounties
-  >	Learn relevant documentation such as ISO 27001, SANS ASP Checklist etc
   
+  
+  >	Start doing Capture The Flags (CTFs)
+  
+  
+  >	Start hunting Bug Bounties
+  
+  
+  >	Learn relevant documentation such as ISO 27001, SANS ASP Checklist etc
+    
 
 The Student Learning Outcome (SLOs) for this course are:
 
