@@ -42,6 +42,8 @@ The Student Learning Outcome (SLOs) for this course are:
 
   5) Conduct critical self, peer, and group review and performance evaluation.
 
+
+
 ___
 # GROUP REFLECTION
 
@@ -89,24 +91,28 @@ I began building my website by utilising a static website generator, this was so
 I further gained knowledge in how to work under pressure in a team environment from unexpected events effectively. With this, it greatly increased my confidence in knowing that when future situations like these arise I know I can overcome these obsticles.
 
 ### 3) Apply technical skills to develop, model and/or evaluate designs.
-Participated in technical class discussions, presented a group research project to the class.
+Presented a group research project to the class and participated in technical class discussions. Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. I explained the issue in depth and brought up interesting terminology such as heap spraying.
 
-Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. Began the configuration of my Kali Linux box [Artefact 3: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
-I explained the issue in depth and brought up interesting terminology such as heap spraying.
-I further understood what was needed of me to succeed in this studio.
-Also utilised vmWare snapshots to prevent any potetial errors in the future that could destroy it. [Artefact 4: Kali Backup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Creating_VM_snapshot.png)
+Began the configuration of my Kali Linux box [Artefact 3: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
+Also utilised vmWare snapshots to ensure any potetial errors in the future could be reversable. [Artefact 4: Kali Backup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Creating_VM_snapshot.png)
+
+With this, I further understood what was required of me to succeed in this studio.
 
 ### 4) Demonstrate effective collaboration and communication skills.
-Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread.
-Pulled off the issue regarding our team member leaving by effectively communicating over Slack, Microsoft Teams & Facebook messenger.
-We did a good job of communicating to pull our team through the presentation task that was due.
-Communication is very important, it is one of the foundations of what makes a true leader.
+Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread. Pulled off the group presentation regarding the issue with our team member leaving by effectively communicating over Slack, Microsoft Teams & Facebook messenger.
+
+We did a good job of communicating to pull our team through the presentation. With this we identified that communication is very important, it is one of the foundations of what makes a true leader and a team successful.
 
 ### 5) Conduct critical self, peer, and group review and performance evaluation
-From my one on one with Larry.
-I was able to gain very beneficial information on how I could improve and given details on topics and resources I could benefit from by both Darshil & Larry.
-I went quite well in my presentation.
-Learned on how to further improve on my presentation skills, such as further eye contact, more expression with hand gestures and tone of voice.
+From my one on one with Larry, I was able to gain very beneficial information on how I could improve and given details on topics and resources I could benefit from by both Larry & Darshil.
+
+They informed me that I went quite well in my presentation and for me to keep getting more technical but also having the ability to siplify it so that those without the technical knowledge such as executives in other fields and their employees in the work place, and the general public, can understand what is being said.
+
+With this, I learned how to further improve on my presentation and communication skills, such as increasing strategic eye contact, more expression with both hand gestures and tone of voice.
+
+# Sprint 1 Conclusion
+
+
 
 
 ---
