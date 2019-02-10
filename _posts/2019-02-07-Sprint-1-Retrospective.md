@@ -19,10 +19,10 @@ ___
 Throughout university I have been eager to learn as much about Cyber Security as I can, with this, when I saw the Summer Studio “Cyber Security: An Offensive Mindset”, I was rather quite excited. Through this studio, I hope to further advance my theoretical knowledge in the security industry while also getting hands on with practical experiences.
 Key objectives I’d like to achieve are:
 
-- Further research exploit methods
--	?
--	?
--	?
+  > Further research exploit methods
+  >	?
+  >	?
+  >	?
 
 The Student Learning Outcome (SLOs) for this course are:
 
@@ -109,6 +109,8 @@ I was able to gain very beneficial information on how I could improve and given 
 I went quite well in my presentation.
 Learned on how to further improve on my presentation skills, such as further eye contact, more expression with hand gestures and tone of voice.
 
+
+---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
 
 <!--more-->
