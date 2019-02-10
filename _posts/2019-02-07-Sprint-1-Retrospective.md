@@ -23,10 +23,9 @@ Key objectives I’d like to achieve are:
   
   > Start doing Capture The Flags (CTFs)
   
-  >	Start hunting Bug Bounties
+  > Start hunting Bug Bounties
   
-  >	Learn relevant documentation such as ISO 27001, SANS ASP Checklist etc
-    
+  > Learn relevant documentation such as ISO 27001, SANS ASP Checklist etc
 
 The Student Learning Outcome (SLOs) for this course are:
 
