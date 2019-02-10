@@ -48,9 +48,9 @@ Throughout university, I have been eager to learn as much about **Cyber Security
 ___
 # GROUP REFLECTION
 
-My group and I were able to develop a presentation on the 2011 RSA Security Breach and present it to the class, tutors and Security Industry expert **Robert Mitchell** from the **GitLab Security Team**. [Artifact 1: Group Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08_01_21_12-Window.png)
+My group and I were able to develop a presentation on the 2011 RSA Security Breach and present it to the class, tutors and Security Industry expert **Robert Mitchell** from the **GitLab Security Team**. [Artefact 1: Group Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08_01_21_12-Window.png)
 
-Our group ran into some rough waters when one of our team members decided that it would be best if they were to drop out of the subject before the census date, this was due to them not having enough technical background to succeed in the studio and thought best to leave early. With this though, we were able to present as a group of three after evenly re-distributing the workload between ourselves, and were able to achieve a successful presentation on time. [Artifact 2: Member Leaving](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Member-Leaving.png)
+Our group ran into some rough waters when one of our team members decided that it would be best if they were to drop out of the subject before the census date, this was due to them not having enough technical background to succeed in the studio and thought best to leave early. With this though, we were able to present as a group of three after evenly re-distributing the workload between ourselves, and were able to achieve a successful presentation on time. [Artefact 2: Member Leaving](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Member-Leaving.png)
 
 Through this presentation, we learned how **Zero-Day-Attacks** are a serious threat, how vulnerable Adobe Flash is, that a **Remote Access Trojan (RAT)** such as **Poison Ivy** has the ability to be a really good offensive tool especially with its feature-rich design. We also found that **human error is the weakest link** for security due to their lack of knowledge of the threat space and threat vectors and because of this can easily be socially engineered into infecting their own devices such as that of the RSA Security employee who’d clicked the infected .xls document in the spearfishing email.
 
@@ -67,7 +67,7 @@ ___
 **Student Learning Outcomes (SLOs)**
 
 ### 1) Engage with stakeholders to identify a problem or scope a defined problem.
-Engaged in conversation with **Robert Mitchell** a leading security industry expert who works for **GitLab** in their security team. An Artifact I received from this conversation was Robs email address for future communications if ever we have a question. He mentioned that we should also read **“Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier”**. It was very beneficial having an industry expert come in and talk with the students as he answered all of our questions on the spot and made us think of more questions to ask. Further industry visits will be highly regarded.
+Engaged in conversation with **Robert Mitchell** a leading security industry expert who works for **GitLab** in their security team. An artefact I received from this conversation was Robs email address for future communications if ever we have a question. He mentioned that we should also read **“Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier”**. It was very beneficial having an industry expert come in and talk with the students as he answered all of our questions on the spot and made us think of more questions to ask. Further industry visits will be highly regarded.
 
 **Feedback I received was:**
 -	I asked the question on the GitLab website, it states that GitLab has a 200% Faster DevOps Life-cycle, with this, what has been done to ensure the security aspect keeps up with such a fast life-cycle" he answered my question with "Automation and standardisation at all stages of the DevOps life-cycle (Continuous Innovation, Continuous Development (CI/CD).
@@ -78,7 +78,7 @@ Engaged in conversation with **Robert Mitchell** a leading security industry exp
 -	If you want a job in this day and age it's a must to talk to people, both in our fields and others, via meetups, private communications and Social networking such as LinkedIn.
 -	Approach interesting companies especially start-ups as they can sometimes be in hyper-growth and too busy to try searching for a security specialist to hire, or this aspect could have been over looked all together.
 -	Lesson to learn from the Art of war by Sun Tzu – Always be ready.
--	Learn Grep commands to filter out the usual artifacts to find the unusual in logs etc.
+-	Learn Grep commands to filter out the usual artefacts to find the unusual in logs etc.
 -	Learn the OWASP top 10.
 -	Learn SANS ASP Checklist – top down.
 
@@ -94,8 +94,8 @@ I further gained knowledge in how to work under pressure in a team environment f
 ### 3) Apply technical skills to develop, model and/or evaluate designs.
 Presented a group research project to the class and participated in technical class discussions. Did in-depth research to understand the deeper aspects of the **2011 RSA Security breach** and what was involved to pull off such a feat. I explained the issue in depth and brought up interesting terminology such as heap spraying.
 
-Began the configuration of my Kali Linux box [Artifact 3: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
-Also utilised VMware snapshots to ensure any potential errors in the future could be reversible. [Artifact 4: Kali Backup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Creating_VM_snapshot.png)
+Began the configuration of my Kali Linux box [Artefact 3: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
+Also utilised VMware snapshots to ensure any potential errors in the future could be reversible. [Artefact 4: Kali Backup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Creating_VM_snapshot.png)
 
 With this, I further understood what was required of me to succeed in this studio.
 
