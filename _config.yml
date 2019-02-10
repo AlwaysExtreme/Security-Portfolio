@@ -20,7 +20,7 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://alwaysextreme.github.io/root9b
 baseurl : /root9b
-title   : SPRINT-1
+title   : Cyber Security: An Offensive Mindset
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
