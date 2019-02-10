@@ -9,14 +9,14 @@ article_header:
 ___
 # INTRODUCTION
 
-[Artefact 1: Portrait Picture](https://github.com/AlwaysExtreme/root9b/blob/master/Portfolio-Photo1.jpg)
+[Portrait Picture](https://github.com/AlwaysExtreme/root9b/blob/master/Portfolio-Photo1.jpg)
 
-My name is Mitchell Luke Tuck. I’m currently in my 2nd year of university studying a Bachelor of Science in Information Technology, Diploma of Information Technology Professional Practice, majoring in Networking & Cybersecurity. I have previously studied an Advanced Diploma of Network Security at the Australian Careers Business College where I excelled in my course not only coming first, but also gaining student of the year for my efforts. I have a deep passion for technology, security and helping people, with these three passions I’ve come to realise how important the Cyber Security industry is as while we’re in a world being rapidily digitalised, we’re falling behind in the security of the end users and can't keep up with these advancements in technology.
+My name is Mitchell Luke Tuck. I’m currently in my 2nd year of university studying a Bachelor of Science in Information Technology, Diploma of Information Technology Professional Practice, majoring in Networking & Cybersecurity. I have previously studied an Advanced Diploma of Network Security at the Australian Careers Business College where I excelled in my course not only coming first but also awarded student of the year for my efforts. I have a deep passion for technology, security and helping people, with these three passions I’ve come to realise how important the Cyber Security industry is as while we’re in a world being rapidly digitalised, we’re falling behind in the security of the end users and can't keep up with these advancements in technology.
 
 ___
 # LEARNING CONTRACT
 
-Throughout university I have been eager to learn as much about Cyber Security as I can, with this, when I saw the Summer Studio “Cyber Security: An Offensive Mindset”, I was rather quite excited. Through this studio, I hope to further advance my theoretical knowledge in the security industry while also getting hands on with practical experiences.
+Throughout university, I have been eager to learn as much about Cyber Security as I can, with this, when I saw the Summer Studio “Cyber Security: An Offensive Mindset”, I was rather quite excited. Through this studio, I hope to further advance my theoretical knowledge in the security industry while also getting hands-on with practical experiences.
 Key objectives I’d like to achieve are:
 
   > Further research exploit methods
@@ -48,18 +48,18 @@ Artefact 1:
  ???????????????????????????
 (Power Point Presentation)
 
-The group ran into some rough waters when one of our team members decided that it would be best if she were to drop out of the subject before census date, this was due to her having no technical background in this field and she thought best to leave early. With this though, our now group of three were able to evenly distribute the workload and achieve a successful presentation on time.
+The group ran into some rough waters when one of our team members decided that it would be best if she were to drop out of the subject before the census date, this was due to her having no technical background in this field and she thought best to leave early. With this though, we were now a group of three and were able to evenly re-distribute the workload and achieve a successful presentation on time.
 Artefact 2:
  ?????????????????
 (Ex-Team members message)
 
-Learned that Zero-Day-Attacks are a serious threat, how vulnerable Adobe Flash is, that a Remote Access Trojan (RAT) such as Poison Ivy has the ability to be a really good offensive tool especially with its feature rich design. Also, that humans still remain the weakest link for security due to their ability to be socially engineered into infecting their own devices such as the RSA Security employee who’d clicked the infected .xls document in the spearfishing email.
+Learned how Zero-Day-Attacks is a serious threat, how vulnerable Adobe Flash is, that a Remote Access Trojan (RAT) such as Poison Ivy has the ability to be a really good offensive tool especially with its feature-rich design. Also, that humans still remain the weakest link for security due to their ability to be socially engineered into infecting their own devices such as the RSA Security employee who’d clicked the infected .xls document in the spearfishing email.
 
 Need to learn more about heap spraying, was in which we can identify new zero-day attacks, how to identify computers infected with malware and how to best mitigate any further damages, with the thought of what can we have done to prevent this issue and any further attacks in the future.
 
-As students we need to further dive into these issues and their terminology while also getting hands on so that we can develop a deeper understanding of what goes into such attacks and start our minds thinking how these attacks could be stopped.
+As students, we need to further dive into these issues and their terminology while also getting hands on so that we can develop a deeper understanding of what goes into such attacks and start our minds thinking how these attacks could be stopped.
 
-For staff, they have done a fantastic job this far, but next they need to ensure that we are following along while delving into the technical side of computer security over the coming week.
+For staff, they have done a fantastic job this far, but next, they need to ensure that we are following along while delving into the technical side of computer security over the coming week.
 
 
 
@@ -71,15 +71,15 @@ Student Learning Outcome (SLOs)
 
 ### 1) Engage with stakeholders to identify a problem or scope a defined problem.
 Engaged in conversation with Rob Mitchell a leading security industry expert. An Artefact I received was Robs email address
-“Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier” was recommended to me to read, it was very beneficial having an industry expert come in and talk with us as they’re able to answer majority of our questions on the spot. Further industry visits will be highly regarded.
+“Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier” was recommended to me to read, it was very beneficial having an industry expert come in and talk with us as they’re able to answer the majority of our questions on the spot. Further industry visits will be highly regarded.
 -	On the GitLab website, it states that GitLab has a 200% Faster DevOps Lifecycle, with this, what has been done to ensure the security aspect keeps up with such a fast lifecycle.
 -	Automation. Standardisation at all stages (Continuous Innovation, Continuous Development (CI/CD))
--	Unexpected result, dig into this issue, could be a new vuln, something just broke, wire shark/logs etc for further details
+-	When coming across an unexpected result, dig into this issue, could be a new vuln, something just broke, wire shark/logs etc for further details
 -	Respond to logs from IDS as this is always overlooked
 -	RFCs = Standards running the internet
--	Some people have endless certifications and say they know about a certain software but they only know how it’s installed and not how it works and how to better it, i.e. Burp suite and PfSense, it’s a start point, not an end point.
+-	Some people have endless certifications and say they know about a certain software but they only know how it’s installed and not how it works and how to better it, i.e. Burp suite and PfSense, it’s a start point, not an end-point.
 -	If you want a job in this day and age we need to Talk to people, in our field or others, Social networking, LinkedIn.
--	Approach interesting companies especially start ups as they can sometimes be in hyper growth.
+-	Approach interesting companies especially start-ups as they can sometimes be in hyper-growth.
 -	Art of war Sun Tzu – Always be ready.
 -	Learn Grep commands to filter out the usual artefacts to find the unusual
 -	Learn Owasp top 10
@@ -97,14 +97,15 @@ Took it in my stride increasing my confidence in knowing that when future situat
 
 ### 3) Apply technical skills to develop, model and/or evaluate designs.
 Participated in technical class discussions, presented a group research project to the class.
-Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat.
+[Artefact 1: Group Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08 01_21_12-Window.png)
+Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. Began the configuration of my Kali Linux box [Artefact 2: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
 I explained the issue in depth and brought up interesting terminology such as heap spraying.
 I further understood what was needed of me to succeed in this studio.
 
 ### 4) Demonstrate effective collaboration and communication skills.
-Identified through group presentation how social engineering has a huge impact in the way malware is able to spread.
+Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread.
 Pulled off the issue regarding our team member leaving by effectively communicating over Slack, Microsoft Teams & Facebook messenger.
-We did a good job at communicating to pull our team through the presentation task due.
+We did a good job of communicating to pull our team through the presentation task that was due.
 Communication is very important, it is one of the foundations of what makes a true leader.
 
 ### 5) Conduct critical self, peer, and group review and performance evaluation
