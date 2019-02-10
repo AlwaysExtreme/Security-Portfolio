@@ -21,27 +21,24 @@ Key objectives I’d like to achieve are:
 
   > Further research exploit methods
   
-  
   >	Start doing Capture The Flags (CTFs)
   
-  
   >	Start hunting Bug Bounties
-  
   
   >	Learn relevant documentation such as ISO 27001, SANS ASP Checklist etc
     
 
 The Student Learning Outcome (SLOs) for this course are:
 
-1) Engage with stakeholders to identify a problem or scope a defined problem.
+  1) Engage with stakeholders to identify a problem or scope a defined problem.
 
-2) Apply design and systems thinking to respond to a defined or newly identified problem.
+  2) Apply design and systems thinking to respond to a defined or newly identified problem.
 
-3) Apply technical skills to develop, model and/or evaluate designs.
+  3) Apply technical skills to develop, model and/or evaluate designs.
 
-4) Demonstrate effective collaboration and communication skills.
+  4) Demonstrate effective collaboration and communication skills.
 
-5) Conduct critical self, peer, and group review and performance evaluation
+  5) Conduct critical self, peer, and group review and performance evaluation
 
 ___
 # GROUP REFLECTION
