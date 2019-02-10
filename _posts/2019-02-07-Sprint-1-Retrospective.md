@@ -45,23 +45,15 @@ The Student Learning Outcome (SLOs) for this course are:
 ___
 # GROUP REFLECTION
 
-Was able to develop a presentation on the 2011 RSA Security Breach and present it to the class, tutors and Security Industry expert Rob Mitchell.
-Artefact 1:
- ???????????????????????????
-(Power Point Presentation)
+My group and I were able to develop a presentation on the 2011 RSA Security Breach and present it to the class, tutors and Security Industry expert Rob Mitchell from the GitLab Security Team. [Artefact 1: Group Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08_01_21_12-Window.png)
 
-The group ran into some rough waters when one of our team members decided that it would be best if she were to drop out of the subject before the census date, this was due to her having no technical background in this field and she thought best to leave early. With this though, we were now a group of three and were able to evenly re-distribute the workload and achieve a successful presentation on time.
-Artefact 2:
- ?????????????????
-(Ex-Team members message)
+Our group ran into some rough waters when one of our team members decided that it would be best if they were to drop out of the subject before the census date, this was due to them not having enough technical background to succeed in the studio and thought best to leave early. With this though, we were able to present as a group of three after evenly re-distributing the workload between ourselves, and were able to achieve a successful presentation on time. [Artefact 2: Member Leaving](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Member-Leaving.png)
 
-Learned how Zero-Day-Attacks is a serious threat, how vulnerable Adobe Flash is, that a Remote Access Trojan (RAT) such as Poison Ivy has the ability to be a really good offensive tool especially with its feature-rich design. Also, that humans still remain the weakest link for security due to their ability to be socially engineered into infecting their own devices such as the RSA Security employee who’d clicked the infected .xls document in the spearfishing email.
+Through this presentation, we learned how Zero-Day-Attacks are a serious threat, how vulnerable Adobe Flash is, that a Remote Access Trojan (RAT) such as Poison Ivy has the ability to be a really good offensive tool especially with its feature-rich design. We also found that human error is the weakest link for security due to their lack of knowledge of the threat space and threat vectors and because of this can easily be socially engineered into infecting their own devices such as that of the RSA Security employee who’d clicked the infected .xls document in the spearfishing email.
 
-Need to learn more about heap spraying, was in which we can identify new zero-day attacks, how to identify computers infected with malware and how to best mitigate any further damages, with the thought of what can we have done to prevent this issue and any further attacks in the future.
+I'd like to learn more about heap spraying, how to identify new zero-day attacks & methods to report them, how to identify computers infected with malware and how to best mitigate any further damages, while thinking of how we can prevent similar issues in the future.
 
-As students, we need to further dive into these issues and their terminology while also getting hands on so that we can develop a deeper understanding of what goes into such attacks and start our minds thinking how these attacks could be stopped.
-
-For staff, they have done a fantastic job this far, but next, they need to ensure that we are following along while delving into the technical side of computer security over the coming week.
+As students, we need to further dive into these issues and their terminology while also getting hands on so that we can develop a deeper understanding of what goes into such attacks and start our minds thinking how these attacks function, and how they could be stopped. For staff, they have done a fantastic job this far, but next, they need to ensure that we are following along while delving into the technical side of computer security over the coming weeks.
 
 
 
@@ -69,26 +61,25 @@ ___
 
 # SPRINT REFLECTION
 
-Student Learning Outcome (SLOs)
+Student Learning Outcomes (SLOs)
 
 ### 1) Engage with stakeholders to identify a problem or scope a defined problem.
-Engaged in conversation with Rob Mitchell a leading security industry expert. An Artefact I received was Robs email address
-“Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier” was recommended to me to read, it was very beneficial having an industry expert come in and talk with us as they’re able to answer the majority of our questions on the spot. Further industry visits will be highly regarded.
--	On the GitLab website, it states that GitLab has a 200% Faster DevOps Lifecycle, with this, what has been done to ensure the security aspect keeps up with such a fast lifecycle.
--	Automation. Standardisation at all stages (Continuous Innovation, Continuous Development (CI/CD))
--	When coming across an unexpected result, dig into this issue, could be a new vuln, something just broke, wire shark/logs etc for further details
--	Respond to logs from IDS as this is always overlooked
--	RFCs = Standards running the internet
--	Some people have endless certifications and say they know about a certain software but they only know how it’s installed and not how it works and how to better it, i.e. Burp suite and PfSense, it’s a start point, not an end-point.
--	If you want a job in this day and age we need to Talk to people, in our field or others, Social networking, LinkedIn.
--	Approach interesting companies especially start-ups as they can sometimes be in hyper-growth.
--	Art of war Sun Tzu – Always be ready.
--	Learn Grep commands to filter out the usual artefacts to find the unusual
--	Learn Owasp top 10
+Engaged in conversation with Rob Mitchell a leading security industry expert who works for GitLab in their security team. An Artefact I received from this conversation was Robs email address for future communications if ever we had a question. He mentioned that we should also read “Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier”. It was very beneficial having an industry expert come in and talk with the students as he answerd all of our questions on the spot and made us think of more questions to ask. Further industry visits will be highly regarded.
+
+Feedback I recieved was:
+-	I asked the question On the GitLab website, it states that GitLab has a 200% Faster DevOps Lifecycle, with this, what has been done to ensure the security aspect keeps up with such a fast lifecycle" he answered my question with "Automation and standardisation at all stages of the DevOps lifecycle (Continuous Innovation, Continuous Development (CI/CD).
+-	When coming across an unexpected result, dig into this issue, it could be a new vulnerability as something most likely had just broke, utilise wire shark/logs etc for further detailed analysis of these.
+-	Ensure to always maintain, monitor & respond to logs from IDS as this is always overlooked.
+-	RFCs = Standards running the internet.
+-	Some people have endless certifications and say they know about a certain software but they only know how it’s foundations and not how it functions and how to better it, i.e. Burp suite and PfSense, certifications are a start point, not an end-point.
+-	If you want a job in this day and age it's a must to talk to people, both in our fields and others, via meetups, private communications and Social networking such as LinkedIn.
+-	Approach interesting companies especially start-ups as they can sometimes be in hyper-growth and too busy to try searching for a security specialist to hire, or this aspect could have been over looked all together.
+-	Lesson to learn from the Art of war by Sun Tzu – Always be ready.
+-	Learn Grep commands to filter out the usual artefacts to find the unusual in logs etc.
+-	Learn the Owasp top 10.
 -	Learn SANS ASP Checklist – top down.
-I took it home and researched everything, it’s invaluable to me especially at such an early stage in my career.
 
-
+With everything that I took home from this presentation I was able to open up a new chapter of research and methodolgy for focusing on my future security career. This presentation was invaluable to me especially at such an early stage in my career.
 
 ### 2) Apply design and systems thinking to respond to a defined or newly identified problem.
 Began building my static site.  A team member dropped out, so we had to have a meeting for our presentation that was due to ensure we had it ready.
@@ -99,10 +90,11 @@ Took it in my stride increasing my confidence in knowing that when future situat
 
 ### 3) Apply technical skills to develop, model and/or evaluate designs.
 Participated in technical class discussions, presented a group research project to the class.
-[Artefact 1: Group Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08_01_21_12-Window.png)
-Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. Began the configuration of my Kali Linux box [Artefact 2: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
+
+Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. Began the configuration of my Kali Linux box [Artefact 3: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
 I explained the issue in depth and brought up interesting terminology such as heap spraying.
 I further understood what was needed of me to succeed in this studio.
+Also utilised vmWare snapshots to prevent any potetial errors in the future that could destroy it. [Artefact 3: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Creating_VM_snapshot.png)
 
 ### 4) Demonstrate effective collaboration and communication skills.
 Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread.
