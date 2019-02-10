@@ -82,11 +82,11 @@ Feedback I recieved was:
 With everything that I took home from this presentation I was able to open up a new chapter of research and methodolgy for focusing on my future security career. This presentation was invaluable to me especially at such an early stage in my career.
 
 ### 2) Apply design and systems thinking to respond to a defined or newly identified problem.
-Began building my static site.  A team member dropped out, so we had to have a meeting for our presentation that was due to ensure we had it ready.
-I learned the foundations of a static website and how it functions.
-I also learned how to work under pressure from unexpected events effectively.
-That my group did a really good job in the circumstances we had.
-Took it in my stride increasing my confidence in knowing that when future situations arise I’ll do my best to overcome them.
+A team member dropped out just before project one's presentation day, so we had to have an emergency meeting for our group so that we were able to ensure we could mitigate the issue best we could and deliver on our side even though being down a member. Our group did a really good job in the circumstances we had.
+
+I began building my website by utilising a static website generator, this was something I had never done before. With this it required a lot of research for me to understand how everything worked. with this I learned the foundations of a static website and how it functions and was able to build a successful website.
+
+I further gained knowledge in how to work under pressure in a team environment from unexpected events effectively. With this, it greatly increased my confidence in knowing that when future situations like these arise I know I can overcome these obsticles.
 
 ### 3) Apply technical skills to develop, model and/or evaluate designs.
 Participated in technical class discussions, presented a group research project to the class.
@@ -94,7 +94,7 @@ Participated in technical class discussions, presented a group research project 
 Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. Began the configuration of my Kali Linux box [Artefact 3: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/2019-02-08%2014_06_45-kali-linux-2018.4-vbox-amd64%20-%20VMware%20Workstation.png)
 I explained the issue in depth and brought up interesting terminology such as heap spraying.
 I further understood what was needed of me to succeed in this studio.
-Also utilised vmWare snapshots to prevent any potetial errors in the future that could destroy it. [Artefact 3: Kali Setup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Creating_VM_snapshot.png)
+Also utilised vmWare snapshots to prevent any potetial errors in the future that could destroy it. [Artefact 4: Kali Backup](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Creating_VM_snapshot.png)
 
 ### 4) Demonstrate effective collaboration and communication skills.
 Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread.
