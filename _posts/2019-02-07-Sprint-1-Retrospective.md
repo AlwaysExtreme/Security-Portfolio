@@ -11,12 +11,12 @@ ___
 
 [Portrait Picture](https://github.com/AlwaysExtreme/root9b/blob/master/Portfolio-Photo1.jpg)
 
-My name is Mitchell Luke Tuck. I’m currently in my 2nd year of university studying a Bachelor of Science in Information Technology, Diploma of Information Technology Professional Practice, majoring in Networking & Cybersecurity. I have previously studied an Advanced Diploma of Network Security at the Australian Careers Business College where I excelled in my course not only coming first but also awarded student of the year for my efforts. I have a deep passion for technology, security and helping people, with these three passions I’ve come to realise how important the Cyber Security industry is as while we’re in a world being rapidly digitalised, we’re falling behind in the security of the end users and can't keep up with these advancements in technology.
+My name is Mitchell Luke Tuck. I’m currently in my 2nd year of university studying a Bachelor of Science in Information Technology, Diploma of Information Technology Professional Practice, majoring in Networking & Cybersecurity. I have previously studied an Advanced Diploma of Network Security at the Australian Careers Business College where I excelled in my course not only coming first but also awarded student of the year for my efforts. I have a deep passion for technology, security and helping people, with these three passions I’ve come to realise how important the Cyber Security industry is as we’re in a world being rapidly digitalised, with a boom in black hat hacking & foreign enemey states, we’re falling behind in security at the cost of the end users.
 
 ___
 # LEARNING CONTRACT
 
-Throughout university, I have been eager to learn as much about Cyber Security as I can, with this, when I saw the Summer Studio “Cyber Security: An Offensive Mindset”, I was rather quite excited. Through this studio, I hope to further advance my theoretical knowledge in the security industry while also getting hands-on with practical experiences.
+Throughout university, I have been eager to learn as much about Cyber Security as I can, with this, when I saw the 41151 Summer Studio B “Cyber Security: An Offensive Mindset” 2019, I was rather quite excited. Through this studio, I hope to further advance my theoretical knowledge in the security industry while also getting hands-on with practical experiences.
 Key objectives I’d like to achieve are:
 
   > Further research exploit methods
@@ -26,6 +26,9 @@ Key objectives I’d like to achieve are:
   > Start hunting Bug Bounties
   
   > Learn relevant documentation such as ISO 27001, SANS ASP Checklist etc
+  
+  > Start building my skills towards achieving certifications such as CISSP, OSCP, GSEC & Security +.
+
 
 The Student Learning Outcome (SLOs) for this course are:
 
@@ -37,7 +40,7 @@ The Student Learning Outcome (SLOs) for this course are:
 
   4) Demonstrate effective collaboration and communication skills.
 
-  5) Conduct critical self, peer, and group review and performance evaluation
+  5) Conduct critical self, peer, and group review and performance evaluation.
 
 ___
 # GROUP REFLECTION
