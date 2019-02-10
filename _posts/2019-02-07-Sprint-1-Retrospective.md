@@ -17,6 +17,7 @@ ___
 # LEARNING CONTRACT
 
 Throughout university, I have been eager to learn as much about **Cyber Security** as I can, with this, when I saw the **41151 Summer Studio B “Cyber Security: An Offensive Mindset” 2019**, I was rather quite excited. Through this studio, I hope to further advance my theoretical knowledge in the security industry while also getting hands-on with practical experiences.
+
 **Key objectives I’d like to achieve are:**
 
   > Further research exploit methods
@@ -110,9 +111,9 @@ They informed me that I went quite well in my presentation and for me to keep ge
 
 With this, I learned how to further improve on my presentation and communication skills, such as increasing strategic eye contact, increased expression with both relevant hand gestures and tone of voice.
 
-# Sprint 1 Conclusion
+# Conclusion
 
-In the past week, I have learned a more than I could have hoped for about offensive security that it has actually surprised me. Utilising the **Agile project planning methodology**, I've been able to reach all my goals in an effective and timely manner.
+In the past week, I have learned more than I could have hoped for regarding offensive security that it has actually surprised me. Utilising the **Agile project planning methodology**, I've been able to reach all my goals in an effective and timely manner.
 
 In the coming weeks I hope to further deepen my theoretical and practical knowledge while achieving more of my key objectives mentioned in the aforementioned **"Learning Contract"**, of this Summer Studio - **"Cyber Security: An Offensive Mindset"**.
 
