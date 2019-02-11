@@ -11,7 +11,9 @@ ___
 
 [Portrait Picture](https://github.com/AlwaysExtreme/root9b/blob/master/Portfolio-Photo1.jpg)
 
-My name is **Mitchell Luke Tuck**. I’m currently in my **2nd year** of university studying a **Bachelor of Science in Information Technology, Diploma of Information Technology Professional Practice, majoring in Networking & Cybersecurity**. I have previously studied an **Advanced Diploma of Network Security** at the Australian Careers Business College where I excelled in my course not only coming first but also awarded student of the year for my efforts. I have a deep passion for technology, security and helping people, with these three passions I’ve come to realise how important the Cyber Security industry is as we’re in a world being rapidly digitalised, with a boom in black hat hacking and foreign enemy states using cyberspace as a method of attack, we’re falling behind in security at the cost of the end users.
+My name is **Mitchell Luke Tuck**. I’m currently in my **2nd year** of university studying a **Bachelor of Science in Information Technology, Diploma of Information Technology Professional Practice, majoring in Networking & Cybersecurity**. I have previously studied an **Advanced Diploma of Network Security** at the Australian Careers Business College where I excelled in my course not only coming first but also awarded student of the year for my efforts. 
+
+I have a deep passion for technology, security and helping people; with these three passions I’ve come to realise how important the Cyber Security industry is. We are in a world being rapidly digitalised, with a boom in black hat hacking and foreign enemy states using cyberspace as a method of attack, we’re falling behind in security at the cost of the end users.
 
 ___
 # LEARNING CONTRACT
