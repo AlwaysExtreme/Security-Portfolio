@@ -111,7 +111,7 @@ They informed me that I went quite well in my presentation and for me to keep ge
 
 With this, I learned how to further improve on my presentation and communication skills, such as increasing strategic eye contact, increased expression with both relevant hand gestures and tone of voice.
 
-# Conclusion
+# CONCLUSION
 
 In the past week, I have learned more than I could have hoped for regarding offensive security that it has actually surprised me. Utilising the **Agile project planning methodology**, I've been able to reach all my goals in an effective and timely manner.
 
