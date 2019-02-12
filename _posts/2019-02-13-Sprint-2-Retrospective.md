@@ -25,7 +25,7 @@ Negatives
 
 
 How you can implement things you've learnt throughout the week to test web apps under a responsible disclosure program
-Through researching documentation such as Bugcrowds open sourced responsible disclosure policy https://github.com/bugcrowd/disclosure-policy, and joining a bounty program, I can implement my new-found knowledge of XSS + SQL to test vulnerable sites which can be found by using resources such as Google Dorks (inurl:.com/search.asp or further customised) to narrow down potential targets. It is not recommended to use something which states “alert” as it can send alarm bells, an example of this would be <script>alert("Hello World");</script> which pops up an alert “Hello World”.
+Through researching documentation such as Bugcrowds open sourced responsible disclosure policy https://github.com/bugcrowd/disclosure-policy, and joining a bounty program, I can implement my new-found knowledge of XSS + SQL to test vulnerable sites which can be found by using resources such as Google Dorks (inurl:.com/search.asp or further customised) to narrow down potential targets. It is not recommended to use something which states “alert” as it can send alarm bells, an example of this would be <script>alert("Artifact 1 - Remember this popup for later..");</script> which pops up an alert “Artifact 1 - Remember this popup for later..”.
 https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
 
 
