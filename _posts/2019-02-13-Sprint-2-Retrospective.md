@@ -1,10 +1,7 @@
 ---
 # title: "Submission 2: Cyber Security: An Offensive Mindset"
 tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sprint-2
-article_header:
-  type: cover
-  image:
-    src: /Portfolio-Photo1.jpg
+
 ---
 # Problem statement
 I want to go from having theoretical knowledge of Web Application Security to being able to utilise WAS in a practical environment, to find and notify vulnerable parties.
