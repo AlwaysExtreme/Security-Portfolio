@@ -18,6 +18,10 @@ titles:
 key: page-about
 ---
 
+
+This website has been created to demonstrate my experience over the 2019 UTS Summer Studio - "Cybersecurity: An Offensive Mindset".
+
+
 Just say something about yourself. :+1:
 
 {% highlight javascript %}
