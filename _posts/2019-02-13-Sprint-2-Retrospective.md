@@ -27,7 +27,7 @@ Every piece of technology ever developed or that ever will be developed will con
 
 
 # Utilising a Responsible Disclousre program with this weeks Web application Security
-Through researching documentation such as Bugcrowds open sourced responsible disclosure policy https://github.com/bugcrowd/disclosure-policy, and joining a bug bounty program, I can implement my new-found knowledge of XSS + SQL to test vulnerable sites which can be found by using resources such as Google Dorks searches (inurl:.com/search.asp or further customised) to narrow down potential targets. 
+Through researching documentation such as Bugcrowds open sourced responsible disclosure policy https://github.com/bugcrowd/disclosure-policy (Artifact 2), and joining a bug bounty program, I can implement my new-found knowledge of XSS + SQL to test vulnerable sites which can be found by using resources such as Google Dorks searches (inurl:.com/search.asp or further customised) to narrow down potential targets. 
 
 I have also found that it's not recommended to use something which states “alert” in the script as it can send alarm bells when it pops up for the website administrator, an example of this would be the pop-up seen upon arrival to this page of mine (reload page to see Artifact 1 again), that script is located here: (invisible) <script>alert("Artifact 1 - Remember this pop-up for later..");</script> but states: </script/>alert(“Artifact 1 - Remember this popup for later..”);</script/>. This is useful when doing covert surveillance of a website.
 
