@@ -22,7 +22,13 @@ key: page-about
 This website has been created to demonstrate my experience over the 2019 UTS Summer Studio - "Cybersecurity: An Offensive Mindset".
 
 
-Just say something about yourself. :+1:
+---
+Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
+
+<!--more-->
+
+---
+
 
 {% highlight javascript %}
 (() => console.log('hello, world!'))();
