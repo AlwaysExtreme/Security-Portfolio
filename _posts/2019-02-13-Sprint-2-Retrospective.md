@@ -30,9 +30,10 @@ Through researching documentation such as Bugcrowds open sourced responsible dis
 https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
 
 ### What you can do: -
+Follow all rules layed out by the company in question, specifically:
   - [Website URI]
   - [Product Information]
-  - Additional Details
+  - [Additional Details]
 
 ### What you cannot do: -
 
@@ -45,13 +46,13 @@ https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-har
 
 
 # Bibliography:
-https://www.hackerone.com/disclosure-guidelines
-https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
-https://github.com/bugcrowd/disclosure-policy
-https://www.hacking-tutorial.com/hacking-tutorial/xss-attack-finding-simple-xss-vulnerability/#sthash.DwtxUkUF.dpbs
-https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
-https://www.exploit-db.com/
-https://www.exploit-db.com/google-hacking-database
+  https://www.hackerone.com/disclosure-guidelines
+  https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
+  https://github.com/bugcrowd/disclosure-policy
+  https://www.hacking-tutorial.com/hacking-tutorial/xss-attack-finding-simple-xss-vulnerability/#sthash.DwtxUkUF.dpbs
+  https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
+  https://www.exploit-db.com/
+  https://www.exploit-db.com/google-hacking-database
 
 
 
