@@ -6,6 +6,8 @@ tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sp
 # Problem statement
 I want to go from having theoretical knowledge of Web Application Security to being able to utilise WAS in a practical environment, to find and notify vulnerable parties.
 
+
+# Bug Bounties
 Every piece of technology ever developed or that ever will be developed will contain some form of bug, whether they are part of poorly written code or come arise in future updates or integration with other code (such as plugins etc), there will always be bugs. Ethical hacking and Bug Bounties have changed the way businesses have approached these security threats in multiple ways. This can be broken down into two different impact vectors, these being:
 Positives
 •	Allowing freelance security researches to find and notify vulnerable parties of potential vectors of attack/s in their software
@@ -22,7 +24,7 @@ Negatives
 
 
 How you can implement things you've learnt throughout the week to test web apps under a responsible disclosure program
-Through researching documentation such as Bugcrowds open sourced responsible disclosure policy https://github.com/bugcrowd/disclosure-policy, and joining a bounty program, I can implement my new-found knowledge of XSS + SQL to test vulnerable sites which can be found by using resources such as Google Dorks (inurl:.com/search.asp or further customised) to narrow down potential targets. It is not recommended to use something which states “alert” as it can send alarm bells, an example of this would be the pop-up seen upon arrival to this site (reload page to see again), that script is located here: (invisible) <script>alert("Artifact 1 - Remember this pop-up for later..");</script> but states: “Artifact 1 - Remember this popup for later..”.
+Through researching documentation such as Bugcrowds open sourced responsible disclosure policy https://github.com/bugcrowd/disclosure-policy, and joining a bounty program, I can implement my new-found knowledge of XSS + SQL to test vulnerable sites which can be found by using resources such as Google Dorks (inurl:.com/search.asp or further customised) to narrow down potential targets. It is not recommended to use something which states “alert” as it can send alarm bells, an example of this would be the pop-up seen upon arrival to this site (reload page to see again), that script is located here: (invisible) <script>alert("Artifact 1 - Remember this pop-up for later..");</script> but states: </script/>alert(“Artifact 1 - Remember this popup for later..”);</script/>.
 https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
 
 ### What you can do: -
