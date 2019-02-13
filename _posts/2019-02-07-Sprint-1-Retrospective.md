@@ -119,7 +119,7 @@ In the past week, I have learned more than I could have hoped for regarding offe
 
 In the coming weeks I hope to further deepen my theoretical and practical knowledge while achieving more of my key objectives mentioned in the aforementioned **"Learning Contract"**, of this Summer Studio - **"Cyber Security: An Offensive Mindset"**.
 
-![alt text](/screenshots/Portfolio-Photo1.jpg)
+![alt text](/screenshots/Portfolio-Photo1.jpg){:height="36px"width="36"}
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
