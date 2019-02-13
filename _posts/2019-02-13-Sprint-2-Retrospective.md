@@ -11,17 +11,17 @@ I want to go from having theoretical knowledge of Web Application Security to be
 Every piece of technology ever developed or that ever will be developed will contain some form of bug, whether they are part of poorly written code or come arise in future updates or integration with other code (such as plugins etc), there will always be bugs. Ethical hacking and Bug Bounties have changed the way businesses have approached these security threats in multiple ways. This can be broken down into two different impact vectors, these being:
 
 ## Positives
-•	Allowing freelance security researches to find and notify vulnerable parties of potential vectors of attack/s in their software
-•	Being a proactive security measure protecting companies and their customers
-•	Building further security awareness and transparency towards stakeholders
-•	Giving piece of mind knowing there is additional help in protecting stakeholders
+  - Allowing freelance security researches to find and notify vulnerable parties of potential vectors of attack/s in their software
+  - Being a proactive security measure protecting companies and their customers
+  -	Building further security awareness and transparency towards stakeholders
+  -	Giving piece of mind knowing there is additional help in protecting stakeholders
 
 ## Negatives
-•	Full disclosure can put strain on DevOps 
-•	Full disclosure can put strain on PR teams
-•	If not fixed immediately can lead to a bad press potentially effecting stock market shares.
-•	Potential legal action can be taken if proof a company has been notified of a vulnerability but had done nothing about it before a breach.
-•	Ultimately loss of faith with a company and shareholders dispersing elsewhere
+  -	Full disclosure can put strain on DevOps 
+  -	Full disclosure can put strain on PR teams
+  -	If not fixed immediately can lead to a bad press potentially effecting stock market shares.
+  -	Potential legal action can be taken if proof a company has been notified of a vulnerability but had done nothing about it before a breach.
+  - Ultimately loss of faith with a company and shareholders dispersing elsewhere
 
 
 # Utilising a Responsible Disclousre program with this weeks Web application Security
@@ -30,18 +30,18 @@ Through researching documentation such as Bugcrowds open sourced responsible dis
 https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
 
 ### What you can do: -
---- [Website URI]
---- [Product Information]
---- Additional Details
+  - [Website URI]
+  - [Product Information]
+  - Additional Details
 
 ### What you cannot do: -
 
---- 3rd Party Services
---- Findings from physical testing such as office access (e.g. open doors, tailgating)
---- Findings derived primarily from social engineering (e.g. phishing, vishing)
---- Findings from applications or systems not listed in the ‘Scope’ section
---- UI and UX bugs and spelling mistakes
---- Network level Denial of Service (DoS/DDoS) vulnerabilities
+    - 3rd Party Services
+    - Findings from physical testing such as office access (e.g. open doors, tailgating)
+    - Findings derived primarily from social engineering (e.g. phishing, vishing)
+    - Findings from applications or systems not listed in the ‘Scope’ section
+    - UI and UX bugs and spelling mistakes
+    - Network level Denial of Service (DoS/DDoS) vulnerabilities
 
 
 # Bibliography:
