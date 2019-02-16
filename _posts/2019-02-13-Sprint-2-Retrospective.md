@@ -107,7 +107,7 @@ Expand on theoretical knowledge of Web Application Security utilising the OWASP 
 
 
 
-# Bibliography:
+# Useful Links:
 https://www.hackerone.com/disclosure-guidelines
 
 https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
@@ -121,8 +121,6 @@ https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
 https://www.exploit-db.com/
 
 https://www.exploit-db.com/google-hacking-database
-
-https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
 
 https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
 
