@@ -51,47 +51,47 @@ Follow all rules layed out by the company in question, specifically:
 # Practical Experiment
 PentesterLab - XSS and MySQL FILE
 
-Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
+  1) Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
 
 ![](/screenshots/XSSSQLi1.png)
 
 
-Proof server can reach attacking machine:
+  2) Proof server can reach attacking machine:
 
 ![](/screenshots/XSSSQLi2.png)
 
 
-Accessing vulnerable website through Kali Linux Virtual Machine
+  3) Accessing vulnerable website through Kali Linux Virtual Machine
 
 ![](/screenshots/XSSSQLi3.png)
 
 
-Checking if post allows for execution of code on server:
+  4) Checking if post allows for execution of code on server:
 
 ![](/screenshots/XSSSQLi4.png)
 
 
-Result shows that it does, “Test!” is now H1 size:
+  5) Result shows that it does, “Test!” is now H1 size:
 
 ![](/screenshots/XSSSQLi5.png)
 
 
-Now to see if scripts will execute: 
+  6) Now to see if scripts will execute: 
 
 ![](/screenshots/XSSSQLi6.png)
 
 
-We have success!
+  7) We have success!
 
 ![](/screenshots/XSSSQLi7.png)
 
 
-Checking for cookies:
+  8) Checking for cookies:
 
 ![](/screenshots/XSSSQLi8.png)
 
 
-Successful: for the administrator it would also show their username and password here, this is not too useful for an external attacker:
+  9) Successful: for the administrator it would also show their username and password here, this is not too useful for an external attacker:
 
 ![](/screenshots/XSSSQLi9.png)
 
