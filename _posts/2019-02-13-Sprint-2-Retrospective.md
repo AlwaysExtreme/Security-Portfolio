@@ -174,7 +174,8 @@ This week has been rather quite interesting and I have learned a great deal rega
 
 
 # References
-https://www.hackerone.com/disclosure-guidelines
+Hackerone 2018, Vulnerability Disclosure Guidelines, San Francisco, viewed 15 February 2019, <https://www.hackerone.com/disclosure-guidelines>.
+
 
 https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
 
@@ -189,6 +190,8 @@ https://www.exploit-db.com/
 https://www.exploit-db.com/google-hacking-database
 
 https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
+
+https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
