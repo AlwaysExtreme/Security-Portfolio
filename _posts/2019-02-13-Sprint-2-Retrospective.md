@@ -121,7 +121,7 @@ Another is by lowering privileges of the user by blocking code execution on the 
 
 Thank you.
 
-# Problem Statement refined:
+# Problem Statement Refined:
 Utilising the kowledge provided in the OWASP Top 10 Web Application Security Risks, employ XSS and SQLi in a practical environment.
 
 
