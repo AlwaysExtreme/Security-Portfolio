@@ -52,7 +52,9 @@ Follow all rules layed out by the company in question, specifically:
 PentesterLab - XSS and MySQL FILE
 
 Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
-(IMAGE HERE)
+![](/screenshots/2019-02-13 21_45_49-Debian 6 - xss_and_mysq - VMware Workstation.png)
+        
+      
 
 
 Proof server can reach attacking machine:
@@ -83,22 +85,30 @@ Successful: for the administrator it would also show their username and password
 
 
 FRIDAY DELIVERABLE – PRESENTATION OF VULN TO STAKEHOLDERS
+
 Thank you for your time,
+
 This week I decided that I wanted to expand on my theoretical knowledge of Web Application Security and utilise it in a practical environment within tight time constraints, thus to find and notify vulnerable parties on the day same day of identification.
 I found your website participating in a bug bounty program and decided to investigate your website for potential vulnerabilities (in scope of the BugBounty) which identified that I was able to manipulate the content of your website by using Cross Site Scripting (XSS) & SQL Injection.
-This permitted me to capture the cookies of the administrator allowing me to load the administrators session gaining me direct access to your website... Once in, there was further ability to utilise SQL injections for further code execution which could be used for retrieving sensitive information from your servers.
-First, the Cross-Site Scripting vulnerability allowed me to gain access to the administration pages. Once in the "Trusted zone", more functionalities become available to me which lead to further vulnerabilities being identified. Using the fact that the MySQL user had high privileges within the system it allowed me to gain code execution privileges on the server by deploying a Web Shell through an SQL injection. 
+
+This permitted me to capture the cookies of the administrator allowing me to load the administrators session gaining me direct access to your website. Once in, there was further ability to utilise SQL injections for further code execution which could be used for retrieving sensitive information from your servers.
+
+First, the Cross-Site Scripting vulnerability allowed me to gain access to the administration pages. Once in the "Trusted zone", more functionalities become available to me which lead to further vulnerabilities being identified. Using the fact that the MySQL user had high privileges within the system it allowed me to gain code execution privileges on the server by deploying a Web Shell through an SQL injection.
+
 These vulnerabilities will affect your company drastically if found by an aggressor as it allows direct access to sensitive information. The impacts of this if exploited by a malicious actor will severely affect your company:
-•	Financially
-•	Reputationally
-•	And hold further legal consequences to you as a key stake holder & the company as a whole (i.e. prosecution by a court of law with fines & potential imprisonment)
+    - Financially
+    - Reputationally
+    - And hold further legal consequences to you as a key stake holder & the company as a whole (i.e. prosecution by a court of law with fines & potential imprisonment)
+    
 It is crucial that security is met at every aspect of the software development life-cycles to prevent issues like this from happening in the future.
+
 These current vulnerabilities can be mitigated by preventing the ability of external users from being able to post to your website or set up restrictions on what can be posted. 
+
 Another is by lowering privileges of the user by blocking code execution on the website thus slowing down an aggressor, limiting the compromise of your databases. I can provide further detailed information on ways to secure your website while discussing the responsible disclosure of information policy with you. 
 Thank you.
 
-I have since updated my problem statement too:
-Expand on theoretical knowledge of Web Application Security utilising the OWASP Top 10 Web Application Security Risks, then employ XSS and SQLi in a practical environment within tight time constraints.
+### I have since updated my problem statement too:
+Utilising the kowledge provided in the OWASP Top 10 Web Application Security Risks, employ XSS and SQLi in a practical environment.
 
 
 
@@ -107,7 +117,7 @@ Expand on theoretical knowledge of Web Application Security utilising the OWASP 
 
 
 
-# Useful Links:
+# Useful Links: (MAKE THESE UTS HARVARD STYLE REFERENCING?????????????????????????????)
 https://www.hackerone.com/disclosure-guidelines
 
 https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
