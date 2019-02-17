@@ -20,8 +20,8 @@ Every piece of technology ever developed or that ever will be developed will con
 ## Negatives
   -	Full disclosure can put strain on DevOps 
   -	Full disclosure can put strain on PR teams
-  -	If not fixed immediately can lead to a bad press potentially effecting stock market shares.
-  -	Potential legal action can be taken if proof a company has been notified of a vulnerability but had done nothing about it before a breach.
+  -	If not fixed immediately can lead to a bad press potentially effecting stock market shares
+  -	Potential legal action can be taken if proof a company has been notified of a vulnerability but had done nothing about it before a breach
   - Ultimately loss of faith with a company and shareholders dispersing elsewhere
 
 
@@ -118,6 +118,7 @@ It is crucial that security is met at every aspect of the software development l
 These current vulnerabilities can be mitigated by preventing the ability of external users from being able to post to your website or set up restrictions on what can be posted. 
 
 Another is by lowering privileges of the user by blocking code execution on the website thus slowing down an aggressor, limiting the compromise of your databases. I can provide further detailed information on ways to secure your website while discussing the responsible disclosure of information policy with you. 
+
 Thank you.
 
 ### I have since updated my problem statement too:
@@ -126,10 +127,18 @@ Utilising the kowledge provided in the OWASP Top 10 Web Application Security Ris
 
 
 # REFLECTION
+??Intro
+
+??Try meet all 5 SLOs, if can't meet all explain why the ones not included couldn't be done
+??Use sheets provided last week for help
+??Check if any sheets available for this week?
+
+??conclusion
 
 
 
-# Useful Links: (MAKE THESE UTS HARVARD STYLE REFERENCING?????????????????????????????)
+
+# Useful Links: (????????????????????????MAKE THESE UTS HARVARD STYLE REFERENCING?????????????????????????????)
 https://www.hackerone.com/disclosure-guidelines
 
 https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
