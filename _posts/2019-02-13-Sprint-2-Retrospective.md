@@ -97,7 +97,7 @@ PentesterLab - XSS and MySQL FILE
 
 
 
-# FRIDAY DELIVERABLE – PRESENTATION OF VULN TO STAKEHOLDERS
+# Friday Deliverable – Presentation to Stakeholder
 
 Thank you for your time,
 
@@ -121,12 +121,12 @@ Another is by lowering privileges of the user by blocking code execution on the 
 
 Thank you.
 
-### I have since updated my problem statement too:
+# Problem Statement refined:
 Utilising the kowledge provided in the OWASP Top 10 Web Application Security Risks, employ XSS and SQLi in a practical environment.
 
 
 
-# REFLECTION
+# Reflection
 ??Intro
 
 ??Try meet all 5 SLOs, if can't meet all explain why the ones not included couldn't be done
