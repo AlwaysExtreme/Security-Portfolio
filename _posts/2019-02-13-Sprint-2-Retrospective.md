@@ -53,53 +53,53 @@ PentesterLab - XSS and MySQL FILE
 
   1) Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
   
-    [Artefact 1: Conguring VM](root9b/screenshots/XSSSQLi1.png)
+   [Artefact 1: Conguring VM](root9b/screenshots/XSSSQLi1.png)
 
 
   2) Proof server can reach attacking machine:
   
-    [Artefact 2: Connection Confirmed](root9b/screenshots/XSSSQLi2.png)
+   [Artefact 2: Connection Confirmed](root9b/screenshots/XSSSQLi2.png)
 
 
   3) Accessing vulnerable website through Kali Linux Virtual Machine
 
-    [Artefact 3: Open Webpage](root9b/screenshots/XSSSQLi3.png)
+   [Artefact 3: Open Webpage](root9b/screenshots/XSSSQLi3.png)
 
 
   4) Checking if post allows for execution of code on server:
 
-    [Artefact 4: Code Execution Test](root9b/screenshots/XSSSQLi4.png)
+   [Artefact 4: Code Execution Test](root9b/screenshots/XSSSQLi4.png)
 
 
   5) Result shows that it does, “Test!” is now H1 size:
 
-    [Artefact 5: Code Test Confirmed](root9b/screenshots/XSSSQLi5.png)
+   [Artefact 5: Code Test Confirmed](root9b/screenshots/XSSSQLi5.png)
 
 
   6) Now to see if scripts will execute: 
 
-    [Artefact 6: Script Execution Test](root9b/screenshots/XSSSQLi6.png)
+   [Artefact 6: Script Execution Test](root9b/screenshots/XSSSQLi6.png)
 
 
   7) We have success!
 
-    [Artefact 7: Script Test Confirmed](root9b/screenshots/XSSSQLi7.png)
+   [Artefact 7: Script Test Confirmed](root9b/screenshots/XSSSQLi7.png)
 
 
   8) Checking for cookies:
 
-    [Artefact 8: Cookies](root9b/screenshots/XSSSQLi8.png)
+   [Artefact 8: Cookies](root9b/screenshots/XSSSQLi8.png)
 
 
   9) Successful: for the administrator it would also show their username and password here, this is not too useful for an external attacker:
 
-    [Artefact 9: XSS Success](root9b/screenshots/XSSSQLi9.png)
+   [Artefact 9: XSS Success](root9b/screenshots/XSSSQLi9.png)
 
 
 
 # Friday Deliverable – Presentation to Stakeholder
 
-Thank you for your time,
+Good evening,
 
 This week I decided that I wanted to expand on my theoretical knowledge of Web Application Security and utilise it in a practical environment within tight time constraints, thus to find and notify vulnerable parties on the day same day of identification.
 I found your website participating in a bug bounty program and decided to investigate your website for potential vulnerabilities (in scope of the BugBounty) which identified that I was able to manipulate the content of your website by using Cross Site Scripting (XSS) & SQL Injection.
@@ -113,13 +113,13 @@ These vulnerabilities will affect your company drastically if found by an aggres
     - Reputationally
     - And hold further legal consequences to you as a key stake holder & the company as a whole (i.e. prosecution by a court of law with fines & potential imprisonment)
     
-It is crucial that security is met at every aspect of the software development life-cycles to prevent issues like this from happening in the future.
-
-These current vulnerabilities can be mitigated by preventing the ability of external users from being able to post to your website or set up restrictions on what can be posted. 
+It is crucial that security is met at every aspect of the software development life-cycles to prevent issues like this from happening in the future. These current vulnerabilities can be mitigated by preventing the ability of external users from being able to post to your website or set up restrictions on what can be posted. 
 
 Another is by lowering privileges of the user by blocking code execution on the website thus slowing down an aggressor, limiting the compromise of your databases. I can provide further detailed information on ways to secure your website while discussing the responsible disclosure of information policy with you. 
 
-Thank you.
+Thank you for your time.
+
+
 
 # Problem Statement Refined:
 Utilising the kowledge provided in the OWASP Top 10 Web Application Security Risks, employ XSS and SQLi in a practical environment.
