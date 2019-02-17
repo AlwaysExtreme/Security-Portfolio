@@ -143,36 +143,42 @@ We had a industry expert named Luke Fuehrer give a presentation and engage us in
 
 He spoke about when Cross-Site Scripting (XSS) first come to light, it was classed as a “lame” vulnerability due to it’s prevalence across the internet and indirect use for a hacker to achieve their goal. In the modern era this "lame" vulnerability is now part of a "kill chain" to take something down. He mentioned how is very rare for just one form of attack to be used to enegage a target and how it's generally multiple attack methods combined to form the perfect offensive.
 
-???????
+In his presentation, he stated that in his opinion XSS is the number one vulnerability as it opens up a lot of avenues to further exploit. The moment you allow a user to have some form of input on a website, there is a huge increase in vulnerability that comes with this. XSS has been used to compromise high-profile organisations allowing for exfiltration of confidential data costing the company their reputaion and impacting them financially.
 
-Today XSS is seen as the number 1 vulnerability
-The moment you allow a user to have some form of input on a website, there is a huge increase in vulnerability you bring. XSS has been used to compromise high-profile organisations allowing for exfiltration of confidential data from that company
-XSS represents a critical security weakness within an application.
-Vast majority of black hat hackers are using simplistic attack methods/exploits
-It can be combined with other vulnerabilities to be very destructive
-XSS can also be manipulated to distribute Viruses & Worms
+It was brought to my attention that XSS represents a critical security weakness within an application with the vast majority of black hat hackers using simplistic attack methods/exploits such as this to cause severe damage to vulnerable parties. With its ability to also be manipulated to distribute Viruses & Worms it proves to be a very good vector of attack.
 
-Session token
-Hidden field
+### Luke stated tha there are three varieties of XSS:
+***Reflected***
+Common (~75% of all XSS Vulns) 
+This is where a request containing embedded JavaScript that is reflected to any user who makes the request, attack payload is then delivered and executed through a single request and response. Any time you rely on user input as mentioned above, it becomes a risk as it’s directly changing code stored on a site.
 
-XSS is a Swiss-Army knife
-
-
-Three varieties of XSS:
-Reflected
-Common (75% of all XSS Vulns) 
-Taking a request containing embedded JavaScript that is reflected to any user who makes the request, attack payload is then delivered and executed through a single request & response.
-Any time you rely on user input as mentioned above, it becomes a user as it’s directly changing code stored on a site
-First order XSS injection (using
-Stored
+***Stored***
 Happens when data submitted by a user is stored in the application (back-end-DB) and then is displayed to others without filtered or sanitised appropriately.
-Second step order XSS injection
 
-DOM-based
-User requests crafted URL supplied by attacker containing embedded JavaScript
-Server response (Browsers Document Object Model (DOM))
-Portion of browser is now running as JavaScript etc in memory, it’s no longer just HTML/CSS, hence why browsers are so resource heavy. Trackers are an example of this which utilse this to track what is being searched and presenting adverts relevant to you as a person. It’s recommended to utilise a plugin called Ghostery/uBlockOrigin to prevent/stop and notify the user of current trackers to protect the users security, useful to see what 
+***DOM-based***
+User requests crafted URL supplied by attacker containing embedded JavaScript, Server response (Browsers Document Object Model (DOM)), portion of browser is now running as JavaScript etc in memory, it’s no longer just HTML/CSS, hence why browsers are so resource heavy. Trackers are an example of this which utilse this to track what is being searched and presenting adverts relevant to you as a person. 
 
+It’s recommended to utilise a plugin called Ghostery or uBlockOrigin to prevent/stop and notify the user of current trackers to protect the users security, also useful to see what websites are tracking of the user.
+
+
+### XSS research case study: eBay’s Stored XSS Vulnerability
+This attack was where persistent cross-site scripting vulnerabilities were utilised to steal account credentials, this wasn’t the first case either as there were a string of attacks previously to this event. Many of the listings that had been exploited had remained on eBay's website for more than a month before they were eventually removed. It was basically a MITM attack utilising XSS to grab confidential user details and redirect them to similar but fraudulent listings.
+
+This could have been mitigated by limiting active content (such as JavaScript), before eventually blocking it altogether. If this is implemented as a technical control (for example, by using iframes with Content Security Policy and sandbox restrictions), then such attacks should become impossible to carry out against modern browsers in the future.
+https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html
+
+
+With using so many different applications this can be hard, need to keep them in one place more use this in reflections
+
+Try show planning applications using a log, use it more
+
+Priority is to do read ups first/writeups
+Then Do the practical side
+
+
+
+
+LESSON TO LEARN TODAy, when speaking to an Executive or Stakeholder, need to state what happens at the end to GRAB THEIR attention in first 30 seconds.
 
 
 
