@@ -135,6 +135,44 @@ Utilising the kowledge provided in the OWASP Top 10 Web Application Security Ris
 
 ??conclusion
 
+# SPRINT 2 - REFLECTION
+
+During week two of Summer Studio 2019, Sprint 2 of the agile methedology was focused on Application Security.
+
+We had a industry expert named Luke Fuehrer give a presentation and engage us in technical conversation. Luke works in a Red Team whos purpose is to penetrate into companys as if they were a malicious actor to highlight key vulnerabilities too a company allowing them to patch it before an actual malicious party exploits the vulnerability.
+
+He spoke about when Cross-Site Scripting (XSS) first come to light, it was classed as a “lame” vulnerability due to it’s prevalence across the internet and indirect use for a hacker to achieve their goal. In the modern era this "lame" vulnerability is now part of a "kill chain" to take something down. He mentioned how is very rare for just one form of attack to be used to enegage a target and how it's generally multiple attack methods combined to form the perfect offensive.
+
+???????
+
+Today XSS is seen as the number 1 vulnerability
+The moment you allow a user to have some form of input on a website, there is a huge increase in vulnerability you bring. XSS has been used to compromise high-profile organisations allowing for exfiltration of confidential data from that company
+XSS represents a critical security weakness within an application.
+Vast majority of black hat hackers are using simplistic attack methods/exploits
+It can be combined with other vulnerabilities to be very destructive
+XSS can also be manipulated to distribute Viruses & Worms
+
+Session token
+Hidden field
+
+XSS is a Swiss-Army knife
+
+
+Three varieties of XSS:
+Reflected
+Common (75% of all XSS Vulns) 
+Taking a request containing embedded JavaScript that is reflected to any user who makes the request, attack payload is then delivered and executed through a single request & response.
+Any time you rely on user input as mentioned above, it becomes a user as it’s directly changing code stored on a site
+First order XSS injection (using
+Stored
+Happens when data submitted by a user is stored in the application (back-end-DB) and then is displayed to others without filtered or sanitised appropriately.
+Second step order XSS injection
+
+DOM-based
+User requests crafted URL supplied by attacker containing embedded JavaScript
+Server response (Browsers Document Object Model (DOM))
+Portion of browser is now running as JavaScript etc in memory, it’s no longer just HTML/CSS, hence why browsers are so resource heavy. Trackers are an example of this which utilse this to track what is being searched and presenting adverts relevant to you as a person. It’s recommended to utilise a plugin called Ghostery/uBlockOrigin to prevent/stop and notify the user of current trackers to protect the users security, useful to see what 
+
 
 
 
