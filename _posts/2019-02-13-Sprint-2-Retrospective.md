@@ -32,13 +32,13 @@ Through researching documentation such as Bugcrowds open sourced responsible dis
 I have also found that it's not recommended to use something which states an “alert” with random text via the script but rather it should be written as "alert(document.domain)" or similar for the administrators. An example of this would be the pop-up seen upon arrival to this page of mine (reload page to see Artifact 2 again), that script is located here: (invisible) <script>alert("Artifact 2 - Remember this pop-up for later..");</script> but states: </script/>alert(“Artifact 2 - Remember this popup for later..”);</script/>. This is useful for this demonstartion but not useful for the developers who need to patch the issue.
 
 
-### What you can do: -
+## What you can do: -
 Follow all rules layed out by the company in question, specifically:
   - [Website URI]
   - [Product Information]
   - [Additional Details]
 
-### What you cannot do: -
+## What you cannot do: -
 
     - 3rd Party Services
     - Findings from physical testing such as office access (e.g. open doors, tailgating)
