@@ -122,18 +122,9 @@ Thank you for your time.
 
 
 # Problem Statement Refined:
-Utilising the kowledge provided in the OWASP Top 10 Web Application Security Risks, employ XSS and SQLi in a practical environment.
+Utilising the OWASP Top 10 Web Application Security Risks, employ XSS and SQLi in a practical environment.
 
 
-
-# Reflection
-??Intro
-
-??Try meet all 5 SLOs, if can't meet all explain why the ones not included couldn't be done
-??Use sheets provided last week for help
-??Check if any sheets available for this week?
-
-??conclusion
 
 # SPRINT 2 - REFLECTION
 
@@ -149,8 +140,7 @@ It was brought to my attention that XSS represents a critical security weakness 
 
 ### Luke stated tha there are three varieties of XSS:
 ***Reflected***
-Common (~75% of all XSS Vulns) 
-This is where a request containing embedded JavaScript that is reflected to any user who makes the request, attack payload is then delivered and executed through a single request and response. Any time you rely on user input as mentioned above, it becomes a risk as it’s directly changing code stored on a site.
+Most common with ~75% of all XSS being Reflected, this is where a request containing embedded JavaScript that is reflected to any user who makes the request, attack payload is then delivered and executed through a single request and response. Any time you rely on user input as mentioned above, it becomes a risk as it’s directly changing code stored on a site.
 
 ***Stored***
 Happens when data submitted by a user is stored in the application (back-end-DB) and then is displayed to others without filtered or sanitised appropriately.
@@ -160,26 +150,24 @@ User requests crafted URL supplied by attacker containing embedded JavaScript, S
 
 It’s recommended to utilise a plugin called Ghostery or uBlockOrigin to prevent/stop and notify the user of current trackers to protect the users security, also useful to see what websites are tracking of the user.
 
-
 ### XSS research case study: eBay’s Stored XSS Vulnerability
 This attack was where persistent cross-site scripting vulnerabilities were utilised to steal account credentials, this wasn’t the first case either as there were a string of attacks previously to this event. Many of the listings that had been exploited had remained on eBay's website for more than a month before they were eventually removed. It was basically a MITM attack utilising XSS to grab confidential user details and redirect them to similar but fraudulent listings.
 
 This could have been mitigated by limiting active content (such as JavaScript), before eventually blocking it altogether. If this is implemented as a technical control (for example, by using iframes with Content Security Policy and sandbox restrictions), then such attacks should become impossible to carry out against modern browsers in the future.
 https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html
 
+In my presentation where I communicated to the class as if they were the share holder, I was able to communicate clearly and effectively keeping them actively listening. Larry told me that I needed to be more concise with my problem statement which has since been cleaned up.
 
-With using so many different applications this can be hard, need to keep them in one place more use this in reflections
+During the scrum meetings I was able too communicate with my peers regarding what we had done during the week, what we planned to do for the week ahead and what where our roadblocks. In my group there were mixed opinions but one thing stood out and that was there was a need for a focus on the practical side of penetration testing so that we could be more effective in the industry.
 
-Try show planning applications using a log, use it more
+During the penetration testing of the PentesterLabs virtual machine, all went smoothe until I got to the SQL Injection (SQLi), I could see that there was an ability to call certain datasets from the database, just I had issues with understanding what needed to be written to retrieve the data. In the coming week I want to build upon this to further fortify my SQLi knowledge.
 
-Priority is to do read ups first/writeups
-Then Do the practical side
+This week has been rather quite interesting and I have learned a great deal regarding Application Security, I hope to expand on this knowledge and meet my problem statement in the coming week.
 
-
-
-
-LESSON TO LEARN TODAy, when speaking to an Executive or Stakeholder, need to state what happens at the end to GRAB THEIR attention in first 30 seconds.
-
+***Further key notes I learned this week:***
+    - With using so many different applications it can be hard to keep track of all of the commands, thus it is necessary to keep them all in one place in a document such as Notepad++ or similare.
+    - Priority is to do read ups first, then do the practical side followed by writeups to remember how it was achieved.
+    - When speaking to an Executive or Stakeholder, need to state at the beginning what happens at the end to GRAB THEIR attention within first 30 seconds.
 
 
 # References
