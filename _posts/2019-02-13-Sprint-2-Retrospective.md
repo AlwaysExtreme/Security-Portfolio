@@ -52,38 +52,38 @@ Follow all rules layed out by the company in question, specifically:
 PentesterLab - XSS and MySQL FILE
 
 Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
-![](/screenshots/XSSSQLi1.png)  
+![](/screenshots/XSSSQLi1.png)
       
 https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi1.png?raw=true
 
 Proof server can reach attacking machine:
-(IMAGE HERE)
+![](/screenshots/XSSSQLi2.png)
 
 
 Accessing vulnerable website through Kali Linux Virtual Machine
-(IMAGE HERE)
+![](/screenshots/XSSSQLi3.png)
 
 Checking if post allows for execution of code on server:
-(IMAGE HERE)
+![](/screenshots/XSSSQLi4.png)
 
 Result shows that it does, “Test!” is now H1 size:
-(IMAGE HERE)
+![](/screenshots/XSSSQLi5.png)
 
 Now to see if scripts will execute: 
-(IMAGE HERE)
+![](/screenshots/XSSSQLi6.png)
 
 We have success!
-(IMAGE HERE)
+![](/screenshots/XSSSQLi7.png)
 
 Checking for cookies:
-(IMAGE HERE)
+![](/screenshots/XSSSQLi8.png)
 
 Successful: for the administrator it would also show their username and password here, this is not too useful for an external attacker:
-(IMAGE HERE)
+![](/screenshots/XSSSQLi9.png)
 
 
 
-FRIDAY DELIVERABLE – PRESENTATION OF VULN TO STAKEHOLDERS
+# FRIDAY DELIVERABLE – PRESENTATION OF VULN TO STAKEHOLDERS
 
 Thank you for your time,
 
@@ -112,7 +112,7 @@ Utilising the kowledge provided in the OWASP Top 10 Web Application Security Ris
 
 
 
-
+# REFLECTION
 
 
 
