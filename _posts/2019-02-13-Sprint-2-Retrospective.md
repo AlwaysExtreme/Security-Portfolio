@@ -52,7 +52,7 @@ Follow all rules layed out by the company in question, specifically:
 PentesterLab - XSS and MySQL FILE
 
 Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
-![](/screenshots/2019-02-13 21_45_49-Debian 6 - xss_and_mysq - VMware Workstation.png)
+![](/screenshots/XSSSQLi1.png)
         
       
 
