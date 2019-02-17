@@ -52,48 +52,48 @@ Follow all rules layed out by the company in question, specifically:
 PentesterLab - XSS and MySQL FILE
 
   1) Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
-[Artefact 1: ???](root9b/screenshots/XSSSQLi1.png)
-
+  
+[Artefact 1: Conguring VM](root9b/screenshots/XSSSQLi1.png)
 
 
   2) Proof server can reach attacking machine:
-
-![](/screenshots/XSSSQLi2.png)
+  
+[Artefact 2: Connection Confirmed](root9b/screenshots/XSSSQLi2.png)
 
 
   3) Accessing vulnerable website through Kali Linux Virtual Machine
 
-![](/screenshots/XSSSQLi3.png)
+[Artefact 3: Open Webpage](root9b/screenshots/XSSSQLi3.png)
 
 
   4) Checking if post allows for execution of code on server:
 
-![](/screenshots/XSSSQLi4.png)
+[Artefact 4: Code Execution Test](root9b/screenshots/XSSSQLi4.png)
 
 
   5) Result shows that it does, “Test!” is now H1 size:
 
-![](/screenshots/XSSSQLi5.png)
+[Artefact 5: Code Test Confirmed](root9b/screenshots/XSSSQLi5.png)
 
 
   6) Now to see if scripts will execute: 
 
-![](/screenshots/XSSSQLi6.png)
+[Artefact 6: Script Execution Test](root9b/screenshots/XSSSQLi6.png)
 
 
   7) We have success!
 
-![](/screenshots/XSSSQLi7.png)
+[Artefact 7: Script Test Confirmed](root9b/screenshots/XSSSQLi7.png)
 
 
   8) Checking for cookies:
 
-![](/screenshots/XSSSQLi8.png)
+[Artefact 8: Cookies](root9b/screenshots/XSSSQLi8.png)
 
 
   9) Successful: for the administrator it would also show their username and password here, this is not too useful for an external attacker:
 
-![](/screenshots/XSSSQLi9.png)
+[Artefact 9: XSS Success](root9b/screenshots/XSSSQLi9.png)
 
 
 
