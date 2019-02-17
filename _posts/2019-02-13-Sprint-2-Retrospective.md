@@ -165,8 +165,11 @@ During the penetration testing of the PentesterLabs virtual machine, all went sm
 This week has been rather quite interesting and I have learned a great deal regarding Application Security, I hope to expand on this knowledge and meet my problem statement in the coming week.
 
 ***Further key notes I learned this week:***
+
     - With using so many different applications it can be hard to keep track of all of the commands, thus it is necessary to keep them all in one place in a document such as Notepad++ or similare.
+    
     - Priority is to do read ups first, then do the practical side followed by writeups to remember how it was achieved.
+    
     - When speaking to an Executive or Stakeholder, need to state at the beginning what happens at the end to GRAB THEIR attention within first 30 seconds.
 
 
