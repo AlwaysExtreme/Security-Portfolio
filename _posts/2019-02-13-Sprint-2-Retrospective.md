@@ -174,24 +174,25 @@ This week has been rather quite interesting and I have learned a great deal rega
 
 
 # References
-Hackerone 2018, Vulnerability Disclosure Guidelines, San Francisco, viewed 15 February 2019, <https://www.hackerone.com/disclosure-guidelines>.
+Hackerone 2018, *Vulnerability Disclosure Guidelines*, San Francisco, viewed 15 February 2019, <https://www.hackerone.com/disclosure-guidelines>.
+
+Bugcrowd 2018, *What is Responsible Disclosure?*, San Francisco, viewed 14 February 2019, <https://www.bugcrowd.com/resource/what-is-responsible-disclosure/>.
+
+Bugcrowd 2018, *disclosure-policy?*, San Francisco, viewed 14 February 2019, <https://github.com/bugcrowd/disclosure-policy>.
+
+Hacking-tutorial 2013, *XSS Attack: Finding Simple XSS Vulnerability*, Online, viewed 14 February 2019, <https://www.hacking-tutorial.com/hacking-tutorial/xss-attack-finding-simple-xss-vulnerability/#sthash.DwtxUkUF.dpbs>.
+
+Exploit Database 2019, *Exploits for Penetration Testers, Researchers, and Ethical Hackers*, Online, viewed 15 February 2019, <https://www.exploit-db.com/>.
+
+Exploit Database 2019, *Google Hacking Database*, Online, viewed 15 February 2019, <https://www.exploit-db.com/google-hacking-database>.
 
 
-https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
-
-https://github.com/bugcrowd/disclosure-policy
-
-https://www.hacking-tutorial.com/hacking-tutorial/xss-attack-finding-simple-xss-vulnerability/#sthash.DwtxUkUF.dpbs
-
-https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
-
-https://www.exploit-db.com/
-
-https://www.exploit-db.com/google-hacking-database
 
 https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
 
 https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html
+
+https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
