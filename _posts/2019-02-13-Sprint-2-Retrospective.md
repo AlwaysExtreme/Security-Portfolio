@@ -9,31 +9,31 @@ I want to go from having theoretical knowledge of Web Application Security to be
 
 
 # Bug Bounties
-Every piece of technology ever developed or that ever will be developed will contain some form of bug, whether they are part of poorly written code or come arise in future updates or integration with other code (such as plugins etc), there will always be bugs. Ethical hacking and Bug Bounties have changed the way businesses have approached these security threats in multiple ways. This can be broken down into two different impact vectors, these being:
+Every piece of technology ever developed or that ever will be developed will contain some form of bug, whether they are part of poorly written code or arise in future updates or integration with other code (such as plugins etc), there will always be bugs. Ethical hacking and Bug Bounties have changed the way businesses have approached these security threats in multiple ways. This can be broken down into two different impact vectors, these being:
 
 ## Positives
   - Allowing freelance security researches to find and notify vulnerable parties of potential vectors of attack/s in their software
   - Being a proactive security measure protecting companies and their customers
   -	Building further security awareness and transparency towards stakeholders
-  -	Giving piece of mind knowing there is additional help in protecting stakeholders
+  -	Giving peace of mind knowing there is additional help in protecting stakeholders
 
 ## Negatives
   -	Full disclosure can put strain on DevOps 
   -	Full disclosure can put strain on PR teams
-  -	If not fixed immediately can lead to a bad press potentially effecting stock market shares
+  -	If not fixed immediately can lead to a bad press potentially affecting stock market shares
   -	Potential legal action can be taken if proof a company has been notified of a vulnerability but had done nothing about it before a breach
   - Ultimately loss of faith with a company and shareholders dispersing elsewhere
 
 
 
-# Utilising a Responsible Disclousre program with this weeks Web application Security
+# Utilising a Responsible Disclosure program with this weeks Web application Security
 Through researching documentation such as Bugcrowds open sourced responsible disclosure policy [Artifact 1: Disclosure Policy](https://github.com/bugcrowd/disclosure-policy), and joining a bug bounty program, I can implement my new-found knowledge of XSS + SQL to test vulnerable sites which can be found by using resources such as Google Dorks searches (inurl:.com/search.asp or further customised) to narrow down potential targets. 
 
 I have also found that it's not recommended to use something which states an “alert” with random text via the script but rather it should be written as "alert(document.domain)" or similar for the administrators. An example of this would be the pop-up seen upon arrival to this page of mine (reload page to see Artifact 2 again), that script is located here: (invisible) <script>alert("Artifact 2 - Remember this pop-up for later..");</script> but states: </script/>alert(“Artifact 2 - Remember this popup for later..”);</script/>. This is useful for this demonstartion but not useful for the developers who need to patch the issue.
 
 
 ## What you can do: -
-Follow all rules layed out by the company in question, specifically:
+Follow all rules laid out by the company in question, specifically:
   - [Website URI]
   - [Product Information]
   - [Additional Details]
@@ -61,17 +61,17 @@ PentesterLab - XSS and MySQL FILE
    [Artifact 2: Connection Confirmed](root9b/screenshots/XSSSQLi2.png)
 
 
-  3) Accessing vulnerable website through Kali Linux Virtual Machine
+  3) Accessing a vulnerable website through Kali Linux Virtual Machine
 
    [Artifact 3: Open Webpage](root9b/screenshots/XSSSQLi3.png)
 
 
-  4) Checking if post allows for execution of code on server:
+  4) Checking if post allows for the execution of code on a server:
 
    [Artifact 4: Code Execution Test](root9b/screenshots/XSSSQLi4.png)
 
 
-  5) Result shows that it does, “Test!” is now H1 size:
+  5) The result shows that it does, “Test!” is now H1 size:
 
    [Artifact 5: Code Test Confirmed](root9b/screenshots/XSSSQLi5.png)
 
@@ -91,7 +91,7 @@ PentesterLab - XSS and MySQL FILE
    [Artifact 8: Cookies](root9b/screenshots/XSSSQLi8.png)
 
 
-  9) Successful: for the administrator it would also show their username and password here, this is not too useful for an external attacker:
+  9) Successful: for the administrator, it would also show their username and password here, this is not too useful for an external attacker:
 
    [Artifact 9: XSS Success](root9b/screenshots/XSSSQLi9.png)
 
@@ -111,7 +111,7 @@ First, the Cross-Site Scripting vulnerability allowed me to gain access to the a
 These vulnerabilities will affect your company drastically if found by an aggressor as it allows direct access to sensitive information. The impacts of this if exploited by a malicious actor will severely affect your company:
     - Financially
     - Reputationally
-    - And hold further legal consequences to you as a key stake holder & the company as a whole (i.e. prosecution by a court of law with fines & potential imprisonment)
+    - And hold further legal consequences to you as a key stakeholder & the company as a whole (i.e. prosecution by a court of law with fines & potential imprisonment)
     
 It is crucial that security is met at every aspect of the software development life-cycles to prevent issues like this from happening in the future. These current vulnerabilities can be mitigated by preventing the ability of external users from being able to post to your website or set up restrictions on what can be posted. 
 
@@ -128,17 +128,17 @@ Utilising the OWASP Top 10 Web Application Security Risks, employ XSS and SQLi i
 
 # SPRINT 2 - REFLECTION
 
-During week two of Summer Studio 2019, Sprint 2 of the agile methedology was focused on Application Security.
+During week two of Summer Studio 2019, Sprint 2 of the agile methodology was focused on Application Security.
 
-We had a industry expert named Luke Fuehrer give a presentation and engage us in technical conversation. Luke works in a Red Team whos purpose is to penetrate into companys as if they were a malicious actor to highlight key vulnerabilities too a company allowing them to patch it before an actual malicious party exploits the vulnerability.
+We had an industry expert named Luke Fuehrer give a presentation and engage us in technical conversation. Luke works in a Red Team whose purpose is to penetrate into companies as if they were a malicious actor to highlight key vulnerabilities to a company allowing them to patch it before an actual malicious party exploits the vulnerability.
 
-He spoke about when Cross-Site Scripting (XSS) first come to light, it was classed as a “lame” vulnerability due to it’s prevalence across the internet and indirect use for a hacker to achieve their goal. In the modern era this "lame" vulnerability is now part of a "kill chain" to take something down. He mentioned how is very rare for just one form of attack to be used to enegage a target and how it's generally multiple attack methods combined to form the perfect offensive.
+He spoke about when Cross-Site Scripting (XSS) first come to light, it was classed as a “lame” vulnerability due to its prevalence across the internet and indirect use for a hacker to achieve their goal. In the modern era, this "lame" vulnerabilities is now part of a "kill chain" to take something down. He mentioned how is very rare for just one form of attack to be used to engage a target and how it's generally multiple attack methods combined to form the perfect offensive.
 
-In his presentation, he stated that in his opinion XSS is the number one vulnerability as it opens up a lot of avenues to further exploit. The moment you allow a user to have some form of input on a website, there is a huge increase in vulnerability that comes with this. XSS has been used to compromise high-profile organisations allowing for exfiltration of confidential data costing the company their reputaion and impacting them financially.
+In his presentation, he stated that in his opinion XSS is the number one vulnerability as it opens up a lot of avenues to further exploit. The moment you allow a user to have some form of input on a website, there is a huge increase in vulnerability that comes with this. XSS has been used to compromise high-profile organisations allowing for exfiltration of confidential data costing the company their reputation and impacting them financially.
 
 It was brought to my attention that XSS represents a critical security weakness within an application with the vast majority of black hat hackers using simplistic attack methods/exploits such as this to cause severe damage to vulnerable parties. With its ability to also be manipulated to distribute Viruses & Worms it proves to be a very good vector of attack.
 
-### Luke stated tha there are three varieties of XSS:
+### Luke stated that there are three varieties of XSS:
 ***Reflected***
 Most common with ~75% of all XSS being Reflected, this is where a request containing embedded JavaScript that is reflected to any user who makes the request, attack payload is then delivered and executed through a single request and response. Any time you rely on user input as mentioned above, it becomes a risk as it’s directly changing code stored on a site.
 
@@ -146,30 +146,30 @@ Most common with ~75% of all XSS being Reflected, this is where a request contai
 Happens when data submitted by a user is stored in the application (back-end-DB) and then is displayed to others without filtered or sanitised appropriately.
 
 ***DOM-based***
-User requests crafted URL supplied by attacker containing embedded JavaScript, Server response (Browsers Document Object Model (DOM)), portion of browser is now running as JavaScript etc in memory, it’s no longer just HTML/CSS, hence why browsers are so resource heavy. Trackers are an example of this which utilse this to track what is being searched and presenting adverts relevant to you as a person. 
+User requests crafted URL supplied by attacker containing embedded JavaScript, Server response (Browsers Document Object Model (DOM)), a portion of the browser is now running as JavaScript etc in memory, it’s no longer just HTML/CSS, hence why browsers are so resource heavy. Trackers are an example of this which utilise this to track what is being searched and presenting adverts relevant to you as a person. 
 
-It’s recommended to utilise a plugin called Ghostery or uBlockOrigin to prevent/stop and notify the user of current trackers to protect the users security, also useful to see what websites are tracking of the user.
+It’s recommended to utilise a plugin called Ghostery or uBlockOrigin to prevent/stop and notify the user of current trackers to protect the users' security, also useful to see what websites are tracking of the user.
 
 ### XSS research case study: eBay’s Stored XSS Vulnerability
 This attack was where persistent cross-site scripting vulnerabilities were utilised to steal account credentials, this wasn’t the first case either as there were a string of attacks previously to this event. Many of the listings that had been exploited had remained on eBay's website for more than a month before they were eventually removed. It was basically a MITM attack utilising XSS to grab confidential user details and redirect them to similar but fraudulent listings.
 
 This could have been mitigated by limiting active content (such as JavaScript), before eventually blocking it altogether. If this is implemented as a technical control (for example, by using iframes with Content Security Policy and sandbox restrictions), then such attacks should become impossible to carry out against modern browsers in the future (Netcraft 2017).
 
-In my presentation where I communicated to the class as if they were the share holder, I was able to communicate clearly and effectively keeping them actively listening. Larry told me that I needed to be more concise with my problem statement which has since been cleaned up.
+In my presentation where I communicated to the class as if they were the shareholder, I was able to communicate clearly and effectively keeping them actively listening. Larry told me that I needed to be more concise with my problem statement which has since been cleaned up.
 
-During the scrum meetings I was able too communicate with my peers regarding what we had done during the week, what we planned to do for the week ahead and what where our roadblocks. In my group there were mixed opinions but one thing stood out and that was there was a need for a focus on the practical side of penetration testing so that we could be more effective in the industry.
+During the scrum meetings, I was able to communicate with my peers regarding what we had done during the week, what we planned to do for the week ahead and what were our roadblocks. In my group, there were mixed opinions but one thing stood out and that was there was a need for a focus on the practical side of penetration testing so that we could be more effective in the industry.
 
-During the penetration testing of the PentesterLabs virtual machine, all went smoothe until I got to the SQL Injection (SQLi), I could see that there was an ability to call certain datasets from the database, just I had issues with understanding what needed to be written to retrieve the data. In the coming week I want to build upon this to further fortify my SQLi knowledge.
+During the penetration testing of the PentesterLabs virtual machine, all went smooth until I got to the SQL Injection (SQLi), I could see that there was an ability to call certain datasets from the database, just I had issues with understanding what needed to be written to retrieve the data. In the coming week, I want to build upon this to further fortify my SQLi knowledge.
 
 This week has been rather quite interesting and I have learned a great deal regarding Application Security, I hope to expand on this knowledge and meet my problem statement in the coming week.
 
-***Further key notes I learned this week:***
+***Further keynotes I learned this week:***
 
-    - With using so many different applications it can be hard to keep track of all of the commands, thus it is necessary to keep them all in one place in a document such as Notepad++ or similare.
+    - With using so many different applications it can be hard to keep track of all of the commands, thus it is necessary to keep them all in one place in a document such as Notepad++ or similar.
     
-    - Priority is to do read ups first, then do the practical side followed by writeups to remember how it was achieved.
+    - Priority is to do research first, then do the practical side followed by write-ups to remember how it was achieved.
     
-    - When speaking to an Executive or Stakeholder, need to state at the beginning what happens at the end to GRAB THEIR attention within first 30 seconds.
+    - When speaking to an Executive or Stakeholder, need to state at the beginning what happens at the end to GRAB THEIR attention within the first 30 seconds.
 
 
 # References
