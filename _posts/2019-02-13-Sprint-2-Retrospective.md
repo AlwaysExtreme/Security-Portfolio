@@ -153,8 +153,7 @@ It’s recommended to utilise a plugin called Ghostery or uBlockOrigin to preven
 ### XSS research case study: eBay’s Stored XSS Vulnerability
 This attack was where persistent cross-site scripting vulnerabilities were utilised to steal account credentials, this wasn’t the first case either as there were a string of attacks previously to this event. Many of the listings that had been exploited had remained on eBay's website for more than a month before they were eventually removed. It was basically a MITM attack utilising XSS to grab confidential user details and redirect them to similar but fraudulent listings.
 
-This could have been mitigated by limiting active content (such as JavaScript), before eventually blocking it altogether. If this is implemented as a technical control (for example, by using iframes with Content Security Policy and sandbox restrictions), then such attacks should become impossible to carry out against modern browsers in the future.
-https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html
+This could have been mitigated by limiting active content (such as JavaScript), before eventually blocking it altogether. If this is implemented as a technical control (for example, by using iframes with Content Security Policy and sandbox restrictions), then such attacks should become impossible to carry out against modern browsers in the future (Netcraft 2017).
 
 In my presentation where I communicated to the class as if they were the share holder, I was able to communicate clearly and effectively keeping them actively listening. Larry told me that I needed to be more concise with my problem statement which has since been cleaned up.
 
@@ -174,25 +173,26 @@ This week has been rather quite interesting and I have learned a great deal rega
 
 
 # References
-Hackerone 2018, *Vulnerability Disclosure Guidelines*, San Francisco, viewed 15 February 2019, <https://www.hackerone.com/disclosure-guidelines>.
-
-Bugcrowd 2018, *What is Responsible Disclosure?*, San Francisco, viewed 14 February 2019, <https://www.bugcrowd.com/resource/what-is-responsible-disclosure/>.
 
 Bugcrowd 2018, *disclosure-policy?*, San Francisco, viewed 14 February 2019, <https://github.com/bugcrowd/disclosure-policy>.
 
-Hacking-tutorial 2013, *XSS Attack: Finding Simple XSS Vulnerability*, Online, viewed 14 February 2019, <https://www.hacking-tutorial.com/hacking-tutorial/xss-attack-finding-simple-xss-vulnerability/#sthash.DwtxUkUF.dpbs>.
+Bugcrowd 2018, *What is Responsible Disclosure?*, San Francisco, viewed 14 February 2019, <https://www.bugcrowd.com/resource/what-is-responsible-disclosure/>.
 
 Exploit Database 2019, *Exploits for Penetration Testers, Researchers, and Ethical Hackers*, Online, viewed 15 February 2019, <https://www.exploit-db.com/>.
 
 Exploit Database 2019, *Google Hacking Database*, Online, viewed 15 February 2019, <https://www.exploit-db.com/google-hacking-database>.
 
+Google 2019, *When reporting XSS, don't use alert(1) - Bughunter University*, Online, viewed 16 February 2019, <https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful>.
+
+Hackerone 2018, *Vulnerability Disclosure Guidelines*, San Francisco, viewed 15 February 2019, <https://www.hackerone.com/disclosure-guidelines>.
+
+Hacking-tutorial 2013, *XSS Attack: Finding Simple XSS Vulnerability*, Online, viewed 14 February 2019, <https://www.hacking-tutorial.com/hacking-tutorial/xss-attack-finding-simple-xss-vulnerability/#sthash.DwtxUkUF.dpbs>.
+
+Netcraft 2017, *Hackers still exploiting eBay’s stored XSS vulnerabilities in 2017*, Online, viewed 16 February 2019, <https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html>.
+
+Offensive Security 2017, *Kali Linux Revealed*, viewed 15 Feburary 2019, <https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf>.
 
 
-https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful
-
-https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html
-
-https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
