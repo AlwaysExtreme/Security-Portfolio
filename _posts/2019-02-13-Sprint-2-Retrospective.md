@@ -174,23 +174,23 @@ This week has been rather quite interesting and I have learned a great deal rega
 
 # References
 
-Bugcrowd 2018, *disclosure-policy?*, San Francisco, viewed 14 February 2019, <https://github.com/bugcrowd/disclosure-policy>.
+Bugcrowd 2018, *disclosure-policy?*, San Francisco, viewed 14 February 2019, <<https://github.com/bugcrowd/disclosure-policy>>.
 
-Bugcrowd 2018, *What is Responsible Disclosure?*, San Francisco, viewed 14 February 2019, <https://www.bugcrowd.com/resource/what-is-responsible-disclosure/>.
+Bugcrowd 2018, *What is Responsible Disclosure?*, San Francisco, viewed 14 February 2019, <<https://www.bugcrowd.com/resource/what-is-responsible-disclosure/>>.
 
-Exploit Database 2019, *Exploits for Penetration Testers, Researchers, and Ethical Hackers*, Online, viewed 15 February 2019, <https://www.exploit-db.com/>.
+Exploit Database 2019, *Exploits for Penetration Testers, Researchers, and Ethical Hackers*, Online, viewed 15 February 2019, <<https://www.exploit-db.com/>>.
 
-Exploit Database 2019, *Google Hacking Database*, Online, viewed 15 February 2019, <https://www.exploit-db.com/google-hacking-database>.
+Exploit Database 2019, *Google Hacking Database*, Online, viewed 15 February 2019, <<https://www.exploit-db.com/google-hacking-database>>.
 
-Google 2019, *When reporting XSS, don't use alert(1) - Bughunter University*, Online, viewed 16 February 2019, <https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful>.
+Google 2019, *When reporting XSS, don't use alert(1) - Bughunter University*, Online, viewed 16 February 2019, <<https://sites.google.com/site/bughunteruniversity/improve/alert-1-considered-harmful>>.
 
-Hackerone 2018, *Vulnerability Disclosure Guidelines*, San Francisco, viewed 15 February 2019, <https://www.hackerone.com/disclosure-guidelines>.
+Hackerone 2018, *Vulnerability Disclosure Guidelines*, San Francisco, viewed 15 February 2019, <<https://www.hackerone.com/disclosure-guidelines>>.
 
-Hacking-tutorial 2013, *XSS Attack: Finding Simple XSS Vulnerability*, Online, viewed 14 February 2019, <https://www.hacking-tutorial.com/hacking-tutorial/xss-attack-finding-simple-xss-vulnerability/#sthash.DwtxUkUF.dpbs>.
+Hacking-tutorial 2013, *XSS Attack: Finding Simple XSS Vulnerability*, Online, viewed 14 February 2019, <<https://www.hacking-tutorial.com/hacking-tutorial/xss-attack-finding-simple-xss-vulnerability/#sthash.DwtxUkUF.dpbs>>.
 
-Netcraft 2017, *Hackers still exploiting eBay’s stored XSS vulnerabilities in 2017*, Online, viewed 16 February 2019, <https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html>.
+Netcraft 2017, *Hackers still exploiting eBay’s stored XSS vulnerabilities in 2017*, Online, viewed 16 February 2019, <<https://news.netcraft.com/archives/2017/02/17/hackers-still-exploiting-ebays-stored-xss-vulnerabilities-in-2017.html>>.
 
-Offensive Security 2017, *Kali Linux Revealed*, viewed 15 Feburary 2019, <https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf>.
+Offensive Security 2017, *Kali Linux Revealed*, viewed 15 Feburary 2019, <<https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf>>.
 
 
 
