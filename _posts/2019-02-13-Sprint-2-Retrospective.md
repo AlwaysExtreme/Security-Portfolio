@@ -138,7 +138,7 @@ In his presentation, he stated that in his opinion XSS is the number one vulnera
 
 It was brought to my attention that XSS represents a critical security weakness within an application with the vast majority of black hat hackers using simplistic attack methods/exploits such as this to cause severe damage to vulnerable parties. With its ability to also be manipulated to distribute Viruses & Worms it proves to be a very good vector of attack.
 
-### Luke stated that there are three varieties of XSS:
+## Luke stated that there are three varieties of XSS:
 ***Reflected***
 Most common with ~75% of all XSS being Reflected, this is where a request containing embedded JavaScript that is reflected to any user who makes the request, attack payload is then delivered and executed through a single request and response. Any time you rely on user input as mentioned above, it becomes a risk as it’s directly changing code stored on a site.
 
@@ -150,7 +150,7 @@ User requests crafted URL supplied by attacker containing embedded JavaScript, S
 
 It’s recommended to utilise a plugin called Ghostery or uBlockOrigin to prevent/stop and notify the user of current trackers to protect the users' security, also useful to see what websites are tracking of the user.
 
-### XSS research case study: eBay’s Stored XSS Vulnerability
+## XSS research case study: eBay’s Stored XSS Vulnerability
 This attack was where persistent cross-site scripting vulnerabilities were utilised to steal account credentials, this wasn’t the first case either as there were a string of attacks previously to this event. Many of the listings that had been exploited had remained on eBay's website for more than a month before they were eventually removed. It was basically a MITM attack utilising XSS to grab confidential user details and redirect them to similar but fraudulent listings.
 
 This could have been mitigated by limiting active content (such as JavaScript), before eventually blocking it altogether. If this is implemented as a technical control (for example, by using iframes with Content Security Policy and sandbox restrictions), then such attacks should become impossible to carry out against modern browsers in the future (Netcraft 2017).
