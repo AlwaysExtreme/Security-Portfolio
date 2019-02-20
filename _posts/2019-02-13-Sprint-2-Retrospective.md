@@ -53,7 +53,7 @@ PentesterLab - XSS and MySQL FILE
 
   1) Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
   
-   [Artifact 1: Conguring VM](root9b/screenshots/XSSSQLi1.png)
+   [Artifact 1: Conguring VM](/screenshots/XSSSQLi1.png)
 
 
   2) Proof server can reach attacking machine:
