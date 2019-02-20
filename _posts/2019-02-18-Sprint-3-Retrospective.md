@@ -5,7 +5,7 @@ tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sp
 ___
 ?????
 
-![](/screenshots/Portfolio-Photo1.jpg)
+
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
