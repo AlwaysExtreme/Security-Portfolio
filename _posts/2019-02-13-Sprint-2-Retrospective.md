@@ -53,47 +53,47 @@ PentesterLab - XSS and MySQL FILE
 
   1) Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
   
-   [Artifact 1: Conguring VM](/screenshots/XSSSQLi1.png)
+   [Artifact 1: Conguring VM](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi1.png)
 
 
   2) Proof server can reach attacking machine:
   
-   [Artifact 2: Connection Confirmed](root9b/screenshots/XSSSQLi2.png)
+   [Artifact 2: Connection Confirmed](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi2.png)
 
 
   3) Accessing a vulnerable website through Kali Linux Virtual Machine
 
-   [Artifact 3: Open Webpage](root9b/screenshots/XSSSQLi3.png)
+   [Artifact 3: Open Webpage](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi3.png)
 
 
   4) Checking if post allows for the execution of code on a server:
 
-   [Artifact 4: Code Execution Test](root9b/screenshots/XSSSQLi4.png)
+   [Artifact 4: Code Execution Test](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi4.png)
 
 
   5) The result shows that it does, “Test!” is now H1 size:
 
-   [Artifact 5: Code Test Confirmed](root9b/screenshots/XSSSQLi5.png)
+   [Artifact 5: Code Test Confirmed](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi5.png)
 
 
   6) Now to see if scripts will execute: 
 
-   [Artifact 6: Script Execution Test](root9b/screenshots/XSSSQLi6.png)
+   [Artifact 6: Script Execution Test](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi6.png)
 
 
   7) We have success!
 
-   [Artifact 7: Script Test Confirmed](root9b/screenshots/XSSSQLi7.png)
+   [Artifact 7: Script Test Confirmed](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi7.png)
 
 
   8) Checking for cookies:
 
-   [Artifact 8: Cookies](root9b/screenshots/XSSSQLi8.png)
+   [Artifact 8: Cookies](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi8.png)
 
 
   9) Successful: for the administrator, it would also show their username and password here, this is not too useful for an external attacker:
 
-   [Artifact 9: XSS Success](root9b/screenshots/XSSSQLi9.png)
+   [Artifact 9: XSS Success](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi9.png)
 
 
 
@@ -170,6 +170,11 @@ This week has been rather quite interesting and I have learned a great deal rega
     - Priority is to do research first, then do the practical side followed by write-ups to remember how it was achieved.
     
     - When speaking to an Executive or Stakeholder, need to state at the beginning what happens at the end to GRAB THEIR attention within the first 30 seconds.
+
+
+# Issues
+
+I had a problem with the SQL part of the box I was penetrating due to a low level of SQL understanding, this is something that I need to further develop on so that I am able to pass this hurdle in future penetration testing.
 
 
 # References
