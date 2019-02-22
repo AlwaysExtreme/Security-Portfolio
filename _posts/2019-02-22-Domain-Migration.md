@@ -40,6 +40,13 @@ IP Firewall:
 WAF:
 **Browser Integrity Check**, Evaluate HTTP headers from your visitors browser for threats. If a threat is found a block page will be delivered.
 
+Scrape Shield:
+**Email Address Obfuscation** Display obfuscated email addresses on your website to prevent harvesting by bots and spammers, without visible changes to the address for human visitors.
+**Server-side Excludes** Automatically hide specific content from disreputable visitors.
+**Hotlink Protection** Protect your images from off-site linking.
+
+
+
 
 ## Performance
 **Auto Minify** HTML/Javascript/CSS, Reduce the file size of source code on your website.
