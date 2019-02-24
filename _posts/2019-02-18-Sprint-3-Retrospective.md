@@ -5,29 +5,35 @@ tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sp
 ___
 
 **(NEED TO DO MON-WED-FRI + EVERYTHING I DO IN BETWEEN)**
-Monday:
-Free for all (what I’ve learned from them jot down)
+REFER TO EXISTING REFLECTIONS
 
-Greatest discovery (Riley)
-•	He was using PentesterLabs also
-•	Way too many resources for hacking, not enough time to research them all
-•	Systems are way too easy to get into (developers have not much security knowledge)
-Struggles
-•	Scripting/programming (getting them off the internet is easy, but developing/reverse engineering was hard)
+This week is about,,,,
+
+## Monday
+In the Monday morning Scrum, I spoke with Riley. I asked him what his greatest discovery was over the past week which he stated was that there are way too many readily available resources for hacking which I acknowledged the threat that brings. He also stated that there is a great overhaed on trying to find the right thing to research and focus on as there are so many different interesting resources out there to learn about and learn from.
+
+Another discovery Riley made over the past week was that systems are seriously too easy to crack into, this is brought on by the lack of developers with security knowledge when developing the software, and for vulnerabilities found, the lack of people patching their vulnerable systems is far too high making it open season for hackers to gain access to confidential information.
+
+Rileys greatest struggle this past week has been his scripting and programming ability, for him, getting a functional code of the internet to do a certain purpose was easy, but to develop &/or reverse engineer &/or modify it to do what he needed was quite hard.
+
+From this Scrum, I discovered that many of the students where also suffering from similar issues, many of whom had also taken introductory programming classes and had seemed to not quite grasp onto the basic fundemental concepts of programming/scripting in any language. Perhaps there is a need to change the mentality of the way these classes are taught from the strict must do what we say criteria, to something that aids the student in their end goal in their particlar language/languages and have them creat a prject in this language creating something they want to, as motivation and success in learning comes from an addictive interest to design.
+
+Another key note from this scrum that i've learned is that.......................................................................................................
 
 
-
+## Tuesday
 
 
 
 **LINK CTF HERE**
 **LINK DOMAIN MIGRATION HERE**
 
-**Wednesday, 20/02/2018 - GROUP¶**
+## **Wednesday, 20/02/2018 - GROUP¶**
 Present a case study on one or more tool(s), and how these tool(s) can be used to break into complex and vulnerable systems.
 Brownie points for linking your research to the guest (TBA) presentation that will be held in the morning (10AM - 12PM).
 Make sure to include examples.
 Keep it high-level.
+**Include a capture of the Planner log we created for this**
 
 
 Your research is to be submitted individually to your sprint 3 submission. Be sure to include your reflection on your learning whilst linking it back to the SLOs. Do not forget your references, academic resources and artefacts.
@@ -193,9 +199,13 @@ Jack the Ripper uses three types of password attacks, these are:
 Which I picture look a bit like this.. (CLICK)
 But I’ll let Harry go into further details about these.
 
+## Thursday
+
+Thursday I worked 9am-5:30pm
 
 
-**Friday, 22/02/2018 - INDIVIDUAL¶**
+
+## **Friday, 22/02/2018 - INDIVIDUAL¶**
 **((real world test, what I’ve tried, what has failed, Real world test is all that needs to be done otherwise the later needs both done. Include Artifacts.
 Do not provide Personally Identifiable Information on personal website.
 ))**
@@ -247,12 +257,31 @@ Ensure that the application/web server sets the Content-Type header appropriatel
 If possible, ensure that the end user uses a standards-compliant and modern web browser that does not perform MIME-sniffing at all, or that can be directed by the web application/web server to not perform MIME-sniffing.
 
 
-**Sunday, 24/02/2018 - INDIVIDUAL¶**
+## Saturday
+
+I worked 9am-5:30pm
+
+## **Sunday, 24/02/2018 - INDIVIDUAL¶**
+
+I worked 9am-5:30pm
+
 This submission should be a full-fledged reflection of this week (18/02 - 22/02):
 Reflect on your learnings from Monday to Friday, be sure to be inclusive of the face-to-face hours and the work you have conducted outside of these hours.
 Write about your free-4-all reflection(s) and what you have learnt from each other throughout the week.
 Artefacts need to be shown, such as, but not limited to, screenshots, resources, academic references, videos, selfies in class and presentations slides.
 If you don’t know already (which you should), click here to see how to submit your weekly submission.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
@@ -263,7 +292,7 @@ Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.ed
 # Reflection
 
 
-# Usful resources
+# Useful resources
 Link websites/vms/contents etc here
 
 
