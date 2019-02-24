@@ -7,7 +7,7 @@ article_header:
     src: /Portfolio-Photo1.jpg
 ---
 ___
-# INTRODUCTION
+# SPRINT 1 - INTRODUCTION
 
 [Portrait Picture](https://github.com/AlwaysExtreme/root9b/blob/master/Portfolio-Photo1.jpg)
 
