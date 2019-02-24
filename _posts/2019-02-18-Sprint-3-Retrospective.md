@@ -4,10 +4,7 @@ tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sp
 ---
 ___
 
-**(NEED TO DO MON-WED-FRI + EVERYTHING I DO IN BETWEEN)**
-REFER TO EXISTING REFLECTIONS
-
-This week is about,,,,
+This week will be a journey dedicated to going from Boot to Root, in other words, breaking into vulnerable machines.
 
 ## Monday
 In the Monday morning Scrum, I spoke with Riley. I asked him what his greatest discovery was over the past week which he stated was that there are way too many readily available resources for hacking which I acknowledged the threat that brings. He also stated that there is a great overhaed on trying to find the right thing to research and focus on as there are so many different interesting resources out there to learn about and learn from.
@@ -45,17 +42,16 @@ Simon Baeg – Analyst on penetration testing
 Nathan Jones – Cyber intelligence centre (I spoke to him at the end)
 
 What is penetration testing
-•	Thinking like criminals to find vulnerabilities so that they can be patched preventing the real criminals for finding them first.
-•	Allowed to bend and break rules depending on the situation
-•	Legally exploiting a serial device
-•	They are white hat hackers 
-•	Like to know how things work, computers/cctv/locks/elevators etc, look behind the curtains to figure out how to manipulate these.
-•	
+  - Thinking like criminals to find vulnerabilities so that they can be patched preventing the real criminals for finding them first.
+  - Allowed to bend and break rules depending on the situation
+  - Legally exploiting a serial device
+  - They are white hat hackers 
+  - Like to know how things work, computers/cctv/locks/elevators etc, look behind the curtains to figure out how to manipulate these.
 
 What else do we do
-•	Attacks, management & cybersecurity
-•	Report submissions, what’s wrong, how it was broken, how to fix and avoid that
-•	3 types of systems penetrated, Physical (Locks), Human (Phishing tools), Cyber (access cards etc, internal systems i.e. disgruntled employee)
+  - Attacks, management & cybersecurity
+  - Report submissions, what’s wrong, how it was broken, how to fix and avoid that
+  - 3 types of systems penetrated, Physical (Locks), Human (Phishing tools), Cyber (access cards etc, internal systems i.e. disgruntled employee)
 Cool story by ?:
 Locked out of home with wife & parents, wife thought sliding door was open, but it was closed, 10 minutes after the beginning, where able to pick the doors by looking at sliding part and fixed part to understand how it’s fixed, they had just screwed the frame from the outside and were able to slide the door open that way.
 
@@ -76,19 +72,19 @@ Look for publicly exposed exploits that the company has, if enough time then can
 Buffer overflows are amazingly fun to know and do
 
 Exploiting database weakness to create Administrator Account
-•	Database Connection
-•	EXEC xp_cmdshell ‘net users DTAdmin Deloitte01 /add’;
+  - Database Connection
+  - EC xp_cmdshell ‘net users DTAdmin Deloitte01 /add’;
 
 Sent out scary email to phish people
-•	Popup when you need to authenticate to proxy server
-•	They entered in their Username + passwords
-•	Got 44-45/150 personal details 
-•	After they entered details and click okay a nice little load bar come up to hide any attention
+  - Popup when you need to authenticate to proxy server
+  - They entered in their Username + passwords
+  - Got 44-45/150 personal details 
+  - After they entered details and click okay a nice little load bar come up to hide any attention
 
 Kiosks:
-•	Break out of applications in kiosk by 
-•	Browse to any site that allows you to pop up a file explorer in the browser (upload file etc) (Jaycar is locked down using website ACLs)
-•	Meterpreter is awesome to utilise
+  - Break out of applications in kiosk by 
+  - Browse to any site that allows you to pop up a file explorer in the browser (upload file etc) (Jaycar is locked down using website ACLs)
+  - Meterpreter is awesome to utilise
 
 Can XOR signatures can potentially bypass
 Don’t like using Metasploit due to it’s simplicity only on time restricted engagements, from a learning perspective going through the code and how it works (no copy or pasting due to trolls with rm/rf commands to delete pc)
@@ -96,40 +92,40 @@ Always look at the exploit you’re going to run as there are dangerous commands
 i.e. you’re an idiot/remove OS
 
 Famous technique, easy to detect though
-•	Break out security system by:
-•	Use browser to navigate to file explorer to open cmd
-•	Run an .exe in full path it will try open it up as correct 
-•	Open up local privilege escalation exploit
-•	Run mimicats to download all clear text credentials from memory
-•	Running netsc in cmd then login as administrator
-•	This will now log into the citrix system so it will now go to citrix admin system
+  - Break out security system by:
+  - Use browser to navigate to file explorer to open cmd
+  - Run an .exe in full path it will try open it up as correct 
+  - Open up local privilege escalation exploit
+  - Run mimicats to download all clear text credentials from memory
+  - Running netsc in cmd then login as administrator
+  - This will now log into the citrix system so it will now go to citrix admin system
 
 Red Team Operations
-•	Name arised from military context
-•	Highly skilled penetration testers working towards a set predefined goal
-•	Different missions involved include either Physical access, System Access, Social engineering etc or a mix of all
-•	Simulates how a real world attacker will gain access to the system
-•	Need to do a virtual map of all aspects, rooms/security features+location/weapons used/external features/internal features/patterns/look like you beong there/act confident & go in, utilise a rubber ducky to do a reverse shell exploit within building ALWAYS BE PREPARED TO BE QUESTIONED
+  - Name arised from military context
+  - Highly skilled penetration testers working towards a set predefined goal
+  - Different missions involved include either Physical access, System Access, Social engineering etc or a mix of all
+  - Simulates how a real world attacker will gain access to the system
+  - Need to do a virtual map of all aspects, rooms/security features+location/weapons used/external features/internal features/patterns/look like you beong there/act confident & go in, utilise a rubber ducky to do a reverse shell exploit within building ALWAYS BE PREPARED TO BE QUESTIONED
 
 Traditional
-•	Specific
-•	Limited Scope
-•	Narrow>
+  - Specific
+  - Limited Scope
+  - Narrow>
 
 Realistic approach to security testing
-•	Realistic
-•	Relevant
-•	Readiness
+  - Realistic
+  - Relevant
+  - Readiness
 
 Tools used:
-•	RFID scanner/duplicator (check what type of card do they use?)(put in iPad sized case/brush past AC/utilise crowded places for effective bumping)
-•	Lock picks (3 pin lock used on some old ATMs within 3 seconds)
-•	PwnPlug (power + corp ethernet – utilised as an extender to do port forwarding allowing SSH tunnel and what you control, from home office can connect into their network GLAR150 + 4g dongle +optional openboards OS)
-•	PowerPwn variant
-•	Wifi-Pinapple (Creat fkae hotspots replicating corporate networks)
-•	Rubber Ducky (simulates a keyboard), Feed scripts into micro sd card, plug it in and will do everything you want to do quickly (Run  \\etc)
-•	Physical hardware testing (i.e. router had pins just had to figure out the different pins and connect via usb-pin adaptor to laptop, UART)
-•	Kali/Metasploit/Powershell Empire/
+  - RFID scanner/duplicator (check what type of card do they use?)(put in iPad sized case/brush past AC/utilise crowded places for effective bumping)
+  - Lock picks (3 pin lock used on some old ATMs within 3 seconds)
+  - PwnPlug (power + corp ethernet – utilised as an extender to do port forwarding allowing SSH tunnel and what you control, from home office can connect into their network GLAR150 + 4g dongle +optional openboards OS)
+  - PowerPwn variant
+  - Wifi-Pinapple (Creat fkae hotspots replicating corporate networks)
+  - Rubber Ducky (simulates a keyboard), Feed scripts into micro sd card, plug it in and will do everything you want to do quickly (Run  \\etc)
+  - Physical hardware testing (i.e. router had pins just had to figure out the different pins and connect via usb-pin adaptor to laptop, UART)
+  - Kali/Metasploit/Powershell Empire/
 
 
 DELOITTE
@@ -181,21 +177,21 @@ At current, it supports 15 different platforms including Windows and many distro
 (NEXT SLIDE)
 
 As mentioned in the previous slide, out of the box, it can autodetect & run numerous types of plaintext & encrypted/hashed (CLICK) password formats such as:
--Unix crypt(3) hash types: 
--Traditional DES-based
--Bigcrypt 
--BSDI extended DES-based
--FreeBSD MD5-based (used in Linux & Cisco IOS)
--OpenBSD Blowfish-based (used in recent versions of Linux distros and Solaris)
--Kerberos/AFS
--Windows LM (DES-based) hashes and
--DES-based tripcodes
+  - Unix crypt(3) hash types: 
+  - Traditional DES-based
+  - Bigcrypt 
+  - BSDI extended DES-based
+  - FreeBSD MD5-based (used in Linux & Cisco IOS)
+  - OpenBSD Blowfish-based (used in recent versions of Linux distros and Solaris)
+  - Kerberos/AFS
+  - Windows LM (DES-based) hashes and
+  - DES-based tripcodes
 
 
 Jack the Ripper uses three types of password attacks, these are:
-•	Dictionary Attacks
-•	Brute Force Attacks
-•	And my favourite - Rainbow Tables
+  - Dictionary Attacks
+  - Brute Force Attacks
+  - And my favourite - Rainbow Tables
 Which I picture look a bit like this.. (CLICK)
 But I’ll let Harry go into further details about these.
 
@@ -264,6 +260,7 @@ I worked 9am-5:30pm
 ## **Sunday, 24/02/2018 - INDIVIDUAL¶**
 
 I worked 9am-5:30pm
+Got home to find that my SSL certificate for the website had been broken by my DNS provider so had to message their support team to look into the issue.
 
 This submission should be a full-fledged reflection of this week (18/02 - 22/02):
 Reflect on your learnings from Monday to Friday, be sure to be inclusive of the face-to-face hours and the work you have conducted outside of these hours.
@@ -275,7 +272,11 @@ If you don’t know already (which you should), click here to see how to submit 
 
 
 
+# Reflection
 
+
+# Useful resources
+Link websites/vms/contents etc here
 
 
 
@@ -285,17 +286,6 @@ If you don’t know already (which you should), click here to see how to submit 
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
-
-
-
-
-# Reflection
-
-
-# Useful resources
-Link websites/vms/contents etc here
-
-
 
 <!--more-->
 
