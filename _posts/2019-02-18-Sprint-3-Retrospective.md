@@ -17,7 +17,7 @@ Rileys greatest struggle this past week has been his scripting and programming a
 
 From this Scrum, I have discovered that many of the students also thought in a similar way as Riley, the excess content on each topic can be overly excessive, and sometimes poorly written. It was also noted that videos should be avoided as they tend to waste a lot of time especially when time is of the essence, it should only be used if a visual walk through is required.
 
-Another key note i've taken away from this scrum is many students had taken introductory programming classes like Riley and had seemed to not quite grasp onto the basic fundemental concepts of programming/scripting in any language. Perhaps there is a need to change the processes of the way these classes are taught from the strict "must do what we say" criteria, to something that aids the student in their end goal in their particlar language/languages and have them create a project in their language of choice developing something they want to, as motivation and success in learning comes from an addictive interest to create.
+Another key note i've taken away from this scrum is many students had taken introductory programming classes like Riley and had seemed to not quite grasp onto the basic fundemental concepts of programming/scripting in any language. 
 
 Was invited to join another group for Wednesdays Presentation so took them up on the offer. We decided to present about the tool "John The Ripper". We set a basic structure of what content we'd like to present and who was assigned which part. I was assigned Introduction, Harry Technical Details and Max to do a demonstration of it cracking passwords.
 
@@ -103,7 +103,7 @@ Break out security system by:
   - Highly skilled penetration testers working towards a set predefined goal
   - Different missions involved include either Physical access, System Access, Social engineering etc or a mix of all
   - Simulates how a real world attacker will gain access to the system
-  - Need to do a virtual map of all aspects, rooms/security features+location/weapons used/external features/internal features/patterns/look like you belong there/act confident and go in, utilise a rubber ducky to do a reverse shell exploit within building and ALWAYS BE PREPARED TO BE QUESTIONED.
+  - Need to do a virtual map of all aspects, rooms/security features+location/weapons used/external features/internal features/patterns/look like you belong there/act confident and go in, utilise a rubber ducky to do a reverse shell exploit within building and ALWAYS BE PREPARED TO BE QUESTIONED
 
 **Traditional**
   - Specific
@@ -202,7 +202,7 @@ https://root9b.tech/2019/02/22/Domain-Migration.html
 
 ## Friday
 **Pentesting Part 1 - Deloitte VM**
-**Pentesting Part 2 - Authorised to test the real-website**
+**Pentesting Part 2 - Authorised Website Analysis**
 [Link to Writeups](https://root9b.tech/2019/02/15/CTF.html)
 
 
@@ -218,30 +218,44 @@ https://root9b.tech/2019/02/22/Domain-Migration.html
 
 
 # Reflection
-**This submission should be a full-fledged reflection of this week (18/02 - 22/02):
-Reflect on your learnings from Monday to Friday, be sure to be inclusive of the face-to-face hours and the work you have conducted outside of these hours.
-Write about your free-4-all reflection(s) and what you have learnt from each other throughout the week.
+
+This week we jumped into doing physical penetration testing of systems with the goal of going from Boot to Root. This was quite a step up again from the previous week, as we had to utilise multiple different skills with a creative mindset to exploit networks (protocols) and applications in ways that they had never been intended for so that we could gain illicit access to the target system with the purpose of gaining full control of it, otherise known as "Root"access.
+
+**Monday** in Scrum, Riley identified that there is a lack of security in the software development lifecycle, and when patches do become available for these, many people don't even update to the latest version. He also identified how readily available hacking content is and how it has pros (those aspiring to be white hat hackers) and cons (content is available to Black hat hackers; due to the amount of content available it inhibits the research process).
+
+Riley and I had seemed to not quite grasp onto the concepts of programming/scripting taught to us in the university programming classes. Perhaps there is a need to change the processes of the way these classes are taught from the strict "must do what we say" criteria, to something that aids the student in their end goal in their particlar language/languages and have them create a project in their language of choice developing something they want to, as motivation and success in learning comes from an addictive interest to create.
+
+At home, I started to research John the Ripper and put my notes together. I found that John the Ripper had far less information on it then other offensive toolsets but the information provided for it was detailed enough to explore. This was quite an interesting learning experience which I enjoyed developing over the following days.
+
+On  **Tuesday**, my group and I utilised Microsoft Teams and Google Docs PowerPoint to prepare for the presentation on Wednesday. I found that even though we were apart, we were effectively able to communicating between each other and utilising the planner to achieve our goals on time.
 
 
+  - Started preparing my website for a Domain Migration from GitHub pages to root9b.tech, routing through Cloudflare for some additional functionality and security.
 
-This week we jumped into doing physical penetration testing of systems.
-
-**Monday**
-
-**Tuesday**
 
 **Wednesday**
+F2F
+
+At home
 [John The Ripper](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/JohnTheRipperVsPasswords.png)
 
 **Thursday**
 [User Access Via SSH](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/UserAccessViaSSH.png)
 
 **Friday**
+F2F
 
-**Saturday**
+At home
 
-**Sunday** was by far the most troublesome day, not only was this reflection due, but my website had gone down and by this point I had spent hours troubleshooting the issue[SSL-DOWN-Artifact](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/SSLCertificateError.png).
+On **Saturday**, I 
 
+
+**Sunday** was by far the most troublesome day, not only was this reflection due, but my website had gone down and by this point I had spent hours troubleshooting the issue [SSL-DOWN](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/SSLCertificateError.png). I ended up having to temporarily deactivate some of cloudflares security settings due to the SSL Certificate being invalid. This brought my website back up but this will need to be investigated further in the coming week.
+
+
+Overall this week i'm quite proud of how far i've come and the personal achievements that i've gained, I feel that this course has helped me develop the technical skills i've been so longing to attain. Being among a group of people with the same interest in Cyber Security has only furthered the friendships and learning experience.
+
+Next week I hope to learn more about the Boot2Root process and potentially implement reverse engineering into the process i'm currently able to utilise, in the hope that when it comes to CYSCA 2019 i'm able to tackle these rarely touched area of expertice.
 
 
 # Useful resources
