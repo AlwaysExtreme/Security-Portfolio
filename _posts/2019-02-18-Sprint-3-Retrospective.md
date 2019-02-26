@@ -213,12 +213,14 @@ But I’ll let Harry go into further details about these.
   - Worked on Deloitte VM
 
 ### My Domain Migration Details:
-[Link to Domain](https://root9b.tech/2019/02/22/Domain-Migration.html)
+[Link to Domain Setup](https://root9b.tech/2019/02/22/Domain-Migration.html)
 
 
 ## Friday
 **Pentesting Part 1 - Deloitte VM**
+
 **Pentesting Part 2 - Authorised Website Analysis**
+
 [Link to Writeups](https://root9b.tech/2019/02/15/CTF.html)
 
 
@@ -245,33 +247,25 @@ At home, I started to research John the Ripper and put my notes together. I foun
 
 On  **Tuesday**, my group and I utilised Microsoft Teams and Google Docs PowerPoint to prepare for the presentation on Wednesday. I found that even though we were apart, we were effectively able to communicating between each other and utilising the planner to achieve our goals on time.
 
+**Wednesday** was rather quite an educational day especially with the Industry Professionals from Deloittes Cyber Security team giving their presentation and providing us with a target VM to penetrate. I gained a deep insight into the offensive security industry and found that I really like the sound of Red Teaming, it sounds exciting. With being able to engage in conversation with the Deloitte staff, I was able to have key questions answered regarding job rolls, progression and tips for gaining an entry level role in security. I was also able to gather their contact details if ever I have a question to ask them.
 
-  - Started preparing my website for a Domain Migration from GitHub pages to root9b.tech, routing through Cloudflare for some additional functionality and security.
+In my presentation that afternoon, I was able to further improve my communication and presentation skills. I feel like I was much bettrer prepared this time round, though I feel that I still relied on my palm cards too much. This is something I will need to continue to improve on [John The Ripper - Meme](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/JohnTheRipperVsPasswords.png).
 
+That night I researched further into what was required to migrate over to my new domain from the Github hosted pages, it was easier than I thought to do and I had prepared everything before going to bed, as preperation is key to minimising downtime.
 
-**Wednesday**
-F2F
+After work on **Thursday** I migrated my website across to the new domain within an hour, I spent another hour configuring some additional settings to how I wanted them. I found this migration quite interesting as I had never quite understood the process for creating a website, creating a domain and then combining the two. This will prove invaluble in the future.
 
-At home
-[John The Ripper](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/JohnTheRipperVsPasswords.png)
+After the successful migration, I spent the remainder of the night working on Deloittes VM, after many hours of trouble shooting and thinking outside of the box I was able to gain User Access to the machine via SSH. I need to learn how to then gain access from user to root as this is where I got stuck[User Access Via SSH](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/UserAccessViaSSH.png).
 
-**Thursday**
-[User Access Via SSH](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/UserAccessViaSSH.png)
+**Friday** morning I continued on with the Deloitte VM before changing my focus onto the website I had been given permission to test. I was able to run a scan using ZAP to identify potential vulnerabilities in the websites defences. I'd like to learn how to safely further these advances on the website as to demonstrate these vulnerabilities being exploited, and seeing what an attacker could have gained access too. Once I have achieved this I'd love to write a report on how they can secure these vulnerabilites, but I will leave this until I increase my knowledge in this field [Link to Writeups](https://root9b.tech/2019/02/15/CTF.html).
 
-**Friday**
-F2F
+On **Saturday**, I modified numerous Cloudflare settings including those regarding Security and Optimisation. This would prove to be troublesome in the coming days due to an SSL certificate [Link to Domain Setup](https://root9b.tech/2019/02/22/Domain-Migration.html). I also began working on this reflection where I started to identify loose ends that I had not yet completed, which I resolved during my lunch break at work on Sunday.
 
-At home
-
-On **Saturday**, I 
-
-
-**Sunday** was by far the most troublesome day, not only was this reflection due, but my website had gone down and by this point I had spent hours troubleshooting the issue [SSL-DOWN](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/SSLCertificateError.png). I ended up having to temporarily deactivate some of cloudflares security settings due to the SSL Certificate being invalid. This brought my website back up but this will need to be investigated further in the coming week.
-
+**Sunday** was by far the most troublesome day, not only did I need to complete unfinished work and have this reflection due, but when I had got hope I found my website had gone down and by the time i'm writing this had spent hours troubleshooting the issue [SSL-DOWN](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/SSLCertificateError.png). I ended up having to temporarily deactivate some of Cloudflares security settings due to the SSL Certificate being invalid, which still allowed for SSL to be enabled but not for it to be strengthened. This brought my website back up but this will need to be investigated further in the coming days.
 
 Overall this week i'm quite proud of how far i've come and the personal achievements that i've gained, I feel that this course has helped me develop the technical skills i've been so longing to attain. Being among a group of people with the same interest in Cyber Security has only furthered the friendships and learning experience.
 
-Next week I hope to learn more about the Boot2Root process and potentially implement reverse engineering into the process i'm currently able to utilise, in the hope that when it comes to CYSCA 2019 i'm able to tackle these rarely touched area of expertice.
+Next week I hope to learn more about the Boot2Root process and potentially implement reverse engineering into the process that i'm currently utilising, in the hope that when it comes to CySCA2019 i'm able to tackle these rarely touched areas of expertice.
 
 
 # Useful resources
