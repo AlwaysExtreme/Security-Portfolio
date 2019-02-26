@@ -151,7 +151,9 @@ Artifact: got all three of their email addresses.
 
 
 
-# **My presentation excerpt**
+### **My presentation excerpt**
+[Cover Page](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/PresentationArtifact.png); 
+
 (TITLE SLIDE)
 Good afternoon,
 My name is Mitchell and today myself, Max & Harry are going to talk to you about the infamous password cracker, “John the Ripper”.
@@ -190,66 +192,63 @@ But I’ll let Harry go into further details about these.
 
 
 ## Thursday
-  - Thursday I worked 9am-5:30pm.
+  - I worked 9am-5:30pm in my IT Support Role.
   - Migrated website over to new Domain. 
+  - Worked on Deloitte VM
 
 ### My Domain Migration Details:
 https://root9b.tech/2019/02/22/Domain-Migration.html
 
 
-## **Friday, 22/02/2018 - INDIVIDUAL¶**
+## Friday
+**Pentesting Part 1 - Deloitte VM**
 **Pentesting Part 2 - Authorised to test the real-website**
-**LINK CTF HERE**
-https://root9b.tech/2019/02/15/CTF.html
+[Link to Writeups](https://root9b.tech/2019/02/15/CTF.html)
 
-
-
-Reminder: the journey is always greater than the destination
-Students are expected to be able to explain:
-Why they did what they did
-Tools they used
-Methodologies
-[Pentest Document](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Pentest%20Recon.docx)
-        
-      
 
 ## Saturday
-  - I worked 9am-5:30pm.
+  - I worked 9am-5:30pm in my IT Support Role
   - Further modified numerous Cloudflare settings including Security and Optimisation.
   - Worked on Reflection for Sunday.
 
-## **Sunday, 24/02/2018 - INDIVIDUAL¶**
-  - I worked 9am-5:30pm
-  - Upon arriving home, I find that my website had gone down due to a SSL certificate for my website had been broken by my DNS provider so had to message their support team to look into the issue.
-
-
-
-
-
-
-**This submission should be a full-fledged reflection of this week (18/02 - 22/02):
-Reflect on your learnings from Monday to Friday, be sure to be inclusive of the face-to-face hours and the work you have conducted outside of these hours.
-Write about your free-4-all reflection(s) and what you have learnt from each other throughout the week.
-Artefacts need to be shown, such as, but not limited to, screenshots, resources, academic references, videos, selfies in class and presentations slides.
-If you don’t know already (which you should), click here to see how to submit your weekly submission.**
+## Sunday
+  - I worked 9am-5:30pm in my IT Support Role
+  - Upon arriving home, I find that my website had gone down due to a SSL certificate for my website had been broken by my DNS provider so had to message their support team to look into the issue. 
 
 
 
 # Reflection
+**This submission should be a full-fledged reflection of this week (18/02 - 22/02):
+Reflect on your learnings from Monday to Friday, be sure to be inclusive of the face-to-face hours and the work you have conducted outside of these hours.
+Write about your free-4-all reflection(s) and what you have learnt from each other throughout the week.
 
-This week was the most intensive week yet, we went from beginner level security students to students who were successfully able to utilise their skill to aid in the protection of IT infrastructure.
 
-The talk on Wednesday was...
 
-The issues that arose Sunday afternoon/night....
+This week we jumped into doing physical penetration testing of systems.
 
+**Monday**
+
+**Tuesday**
+
+**Wednesday**
+[John The Ripper](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/JohnTheRipperVsPasswords.png)
+
+**Thursday**
+[User Access Via SSH](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/UserAccessViaSSH.png)
+
+**Friday**
+
+**Saturday**
+
+**Sunday** was by far the most troublesome day, not only was this reflection due, but my website had gone down and by this point I had spent hours troubleshooting the issue[SSL-DOWN-Artifact](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/SSLCertificateError.png).
 
 
 
 # Useful resources
-https://www.exploit-db.com/
-https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
-
+  - https://www.exploit-db.com/
+  - https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
+  - https://sslanalyzer.comodoca.com/
+  - http://dnsviz.net/
 
 
 
