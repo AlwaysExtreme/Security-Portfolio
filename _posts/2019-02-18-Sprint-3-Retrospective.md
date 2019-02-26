@@ -191,56 +191,27 @@ But I’ll let Harry go into further details about these.
 
 ## Thursday
   - Thursday I worked 9am-5:30pm.
-  - Migrated website over to new Domain.
-# **LINK DOMAIN MIGRATION HERE**
+  - Migrated website over to new Domain. 
+
+### My Domain Migration Details:
+https://root9b.tech/2019/02/22/Domain-Migration.html
 
 
 ## **Friday, 22/02/2018 - INDIVIDUAL¶**
-
-
 **Pentesting Part 2 - Authorised to test the real-website**
+**LINK CTF HERE**
+https://root9b.tech/2019/02/15/CTF.html
+
+
 
 Reminder: the journey is always greater than the destination
 Students are expected to be able to explain:
 Why they did what they did
 Tools they used
 Methodologies
-
-Did OWASP Zed Attack Proxy (ZAP)
-The Scan revealed the following issues:
-*"Issue:
-A cookie has been set without the HttpOnly flag, which means that the cookie can be accessed by JavaScript. If a malicious script can be run on this page then the cookie will be accessible and can be transmitted to another site. If this is a session cookie then session hijacking may be possible.
-Solution:
-Ensure that the HttpOnly flag is set for all cookies.
-
-*Issue:
-A cookie has been set without the secure flag, which means that the cookie can be accessed via unencrypted connections.
-Solution:
-Whenever a cookie contains sensitive information or is a session token, then it should always be passed using an encrypted channel. Ensure that the secure flag is set for cookies containing such sensitive information.
-
-*Issue:
-The page includes one or more script files from a third-party domain.
-Solution:
-Ensure JavaScript source files are loaded from only trusted sources, and the sources can't be controlled by end users of the application.
-Issue:
-The cache-control and pragma HTTP header have not been set properly or are missing allowing the browser and proxies to cache content.
-Solution:
-Whenever possible ensure the cache-control HTTP header is set with no-cache, no-store, must-revalidate; and that the pragma HTTP header is set with no-cache.
-Issue:
-Web Browser XSS Protection is not enabled, or is disabled by the configuration of the 'X-XSS-Protection' HTTP response header on the web server
-Solution:
-Ensure that the web browser's XSS filter is enabled, by setting the X-XSS-Protection HTTP response header to '1'.
-
-*Issue:
-The Anti-MIME-Sniffing header X-Content-Type-Options was not set to 'nosniff'. This allows older versions of Internet Explorer and Chrome to perform MIME-sniffing on the response body, potentially causing the response body to be interpreted and displayed as a content type other than the declared content type. Current (early 2014) and legacy versions of Firefox will use the declared content type (if one is set), rather than performing MIME-sniffing.
-
-*Solution:
-Ensure that the application/web server sets the Content-Type header appropriately, and that it sets the X-Content-Type-Options header to 'nosniff' for all web pages.
-If possible, ensure that the end user uses a standards-compliant and modern web browser that does not perform MIME-sniffing at all, or that can be directed by the web application/web server to not perform MIME-sniffing."*
-
-
-**LINK CTF HERE**
-
+[Pentest Document](root9b/screenshots/Pentest Recon.docx)
+        
+      
 
 ## Saturday
   - I worked 9am-5:30pm.
@@ -250,6 +221,9 @@ If possible, ensure that the end user uses a standards-compliant and modern web 
 ## **Sunday, 24/02/2018 - INDIVIDUAL¶**
   - I worked 9am-5:30pm
   - Upon arriving home, I find that my website had gone down due to a SSL certificate for my website had been broken by my DNS provider so had to message their support team to look into the issue.
+
+
+
 
 
 
