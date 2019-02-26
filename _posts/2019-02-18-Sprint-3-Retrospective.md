@@ -209,7 +209,7 @@ Students are expected to be able to explain:
 Why they did what they did
 Tools they used
 Methodologies
-[Pentest Document](root9b/screenshots/Pentest Recon.docx)
+[Pentest Document](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Pentest%20Recon.docx)
         
       
 
