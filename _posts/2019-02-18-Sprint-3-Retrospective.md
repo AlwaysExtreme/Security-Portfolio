@@ -152,23 +152,38 @@ Artifact: got all three of their email addresses.
 
 
 ### **My presentation excerpt**
-[Cover Page](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/PresentationArtifact.png); 
+[Cover Page](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/PresentationArtifact.png)
 
 (TITLE SLIDE)
+
 Good afternoon,
+
 My name is Mitchell and today myself, Max & Harry are going to talk to you about the infamous password cracker, “John the Ripper”.
-(NEXT SLIDE)
-What is John the Ripper?
-(CLICK)
-That is an excellent question!
-(NEXT SLIDE)
-If you’re thinking infamous serial killer John the Ripper, (CLICK) you’d be wrong, though they do hold two things in common, their notoriousness and their ability to kill… passwords in our case.
-(NEXT SLIDE)
-John the Ripper is a password cracking tool that has been cracking around as a prototype since 1995 and officially released for DOS in 1996. Since its introduction, it has cracked billions of passwords at lightning fast speeds and been taken over and continuously improved by Openwall.
+
 (NEXT SLIDE)
 
-For enthusiasts, there is also a community Jumbo version hosted on GitHub for people to commit too, but this isn’t as high quality or bug proof as the free & pro versions developed by Openwall. (NEXT SLIDE)
+What is John the Ripper?
+
+(CLICK)
+
+That is an excellent question!
+
+(NEXT SLIDE)
+
+If you’re thinking infamous serial killer John the Ripper, (CLICK) you’d be wrong, though they do hold two things in common, their notoriousness and their ability to kill… passwords in our case.
+
+(NEXT SLIDE)
+
+John the Ripper is a password cracking tool that has been cracking around as a prototype since 1995 and officially released for DOS in 1996. Since its introduction, it has cracked billions of passwords at lightning fast speeds and been taken over and continuously improved by Openwall.
+
+(NEXT SLIDE)
+
+For enthusiasts, there is also a community Jumbo version hosted on GitHub for people to commit too, but this isn’t as high quality or bug proof as the free & pro versions developed by Openwall. 
+
+(NEXT SLIDE)
+
 At current, it supports 15 different platforms including Windows and many distros of unix, there is no bias here (CLICK), it’s one of the most popular password testing and breaking tools as it combines multiple password crackers into a single package including a fully customisable version, while also providing features such as auto-detection of password hash types.
+
 (NEXT SLIDE)
 
 As mentioned in the previous slide, out of the box, it can auto-detect & run numerous types of plaintext & encrypted/hashed (CLICK) password formats such as:
@@ -186,6 +201,7 @@ John the Ripper uses three types of password attacks, these are:
   - Dictionary Attacks
   - Brute Force Attacks
   - And my favorite - Rainbow Tables
+
 Which I picture look a bit like this.. (CLICK)
 
 But I’ll let Harry go into further details about these.
@@ -197,7 +213,7 @@ But I’ll let Harry go into further details about these.
   - Worked on Deloitte VM
 
 ### My Domain Migration Details:
-https://root9b.tech/2019/02/22/Domain-Migration.html
+[Link to Domain](https://root9b.tech/2019/02/22/Domain-Migration.html)
 
 
 ## Friday
@@ -259,14 +275,10 @@ Next week I hope to learn more about the Boot2Root process and potentially imple
 
 
 # Useful resources
-  - https://www.exploit-db.com/
-  - https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
-  - https://sslanalyzer.comodoca.com/
-  - http://dnsviz.net/
-
-
-
-
+  - [Exploit-DB](https://www.exploit-db.com/)
+  - [Kali Revealed](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf)
+  - [SSL Analyser](https://sslanalyzer.comodoca.com/)
+  - [DNS Visuliser](http://dnsviz.net/)
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
