@@ -4,7 +4,7 @@ tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Fi
 ---
 ___
 
-# Final Portfolio Reflectiom=n
+# Final Portfolio Reflection
 Over the past four weeks, I have gone from a beginner to an Boot2Root cabable assailant.
 
 ## Monday
