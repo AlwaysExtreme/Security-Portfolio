@@ -28,7 +28,7 @@ Every piece of technology ever developed or that ever will be developed will con
   - Ultimately loss of faith with a company and shareholders dispersing elsewhere
 
 
-
+___
 # Utilising a Responsible Disclosure program with this weeks Web application Security
 Through researching documentation such as Bugcrowds open sourced responsible disclosure policy [Artifact 1: Disclosure Policy](https://github.com/bugcrowd/disclosure-policy), and joining a bug bounty program, I can implement my new-found knowledge of XSS + SQL to test vulnerable sites which can be found by using resources such as Google Dorks searches (inurl:.com/search.asp or further customised) to narrow down potential targets. 
 
@@ -51,6 +51,7 @@ Follow all rules laid out by the company in question, specifically:
     - Network level Denial of Service (DoS/DDoS) vulnerabilities
 
 
+___
 # Practical Experiment
 PentesterLab - XSS and MySQL FILE
 
@@ -99,7 +100,7 @@ PentesterLab - XSS and MySQL FILE
    [Artifact 9: XSS Success](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/XSSSQLi9.png)
 
 
-
+___
 # Friday Deliverable – Presentation to Stakeholder
 
 Good evening,
@@ -123,10 +124,10 @@ Another is by lowering privileges of the user by blocking code execution on the 
 Thank you for your time.
 
 
-
+___
 # Problem Statement Refined:
 Utilising the OWASP Top 10 Web Application Security Risks, employ XSS and SQLi in a practical environment.
-
+___
 
 
 # SPRINT 2 - REFLECTION
@@ -179,7 +180,7 @@ This week has been rather quite interesting and I have learned a great deal rega
 
 I had a problem with the SQL part of the box I was penetrating due to a low level of SQL understanding, this is something that I need to further develop on so that I am able to pass this hurdle in future penetration testing.
 
-
+___
 # References
 
 Bugcrowd 2018, *disclosure-policy?*, San Francisco, viewed 14 February 2019, <<https://github.com/bugcrowd/disclosure-policy>>.
