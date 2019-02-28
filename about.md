@@ -16,14 +16,14 @@ titles:
   ko      : &KO       소개
   ko-KR   : *KO
 key: page-about
+/Portfolio-Photo1.jpg
 ---
 
 My name is Mitchell Tuck......
 
 
+![alt text](/Portfolio-Photo1.jpg "Logo Title Text 1")
 
-![alt text](https://github.com/adam-p/root9b/screenshots/Creating_VM_snapshot.png "Logo Title Text 1")
 
-
-[logo]: https://github.com/adam-p/root9b/screenshots/Creating_VM_snapshot.png "Logo Title Text 2"
+[logo]: https://github.com/root9b/screenshots/Portfolio-Photo1.jpg "Logo Title Text 2"
 
