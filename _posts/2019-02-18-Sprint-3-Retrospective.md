@@ -27,13 +27,14 @@ Was invited to join another group for Wednesdays Presentation so took them up on
   - Started preparing my website for a Domain Migration from GitHub pages to root9b.tech, routing through Cloudflare for some additional functionality and security.
 
 
-## **Wednesday, 20/02/2018 - GROUP**
+## Wednesday
   - Presentation by Deloitte
-  - Presented a case study on John the Ripper, and how this tool could be used to penetrate complex systems.
-  - Finalising settings and understanding before Domain Migration begins.
+  - Presented a case study on John the Ripper, and how this tool could be used to penetrate complex systems
+  - Finalising settings and understanding before Domain Migration begins
 
 ## **Industry Professionals Presentation** (10am to 12pm) by Deloitte
-Presenters:
+**Presenters:**
+
 **Viren Khatri** - Manager;
 
 **Simon Baeg** – Analyst/Pentesting;
@@ -53,9 +54,11 @@ Presenters:
   - 3 key types of systems that are targeted, these are Physical (Locks), Human (Phishing tools), Cyber (access cards etc, internal systems, defence against disgruntled employees)
 
 **Cool story by Viren:**
+
 He was locked out of home with his wife and parents, wife thought sliding door was open, but it was closed, 10 minutes after the beginning Viren was able gain access to their house by looking at the sliding doors, particularly the frame to understand how it’s fixed, the installers had just screwed the frame from the outside, after unscrewing these, Viren was able to slide the door open and gain access to his premises.
 
 **ONLY PENTEST WHAT YOU’RE ALLOWED TOO**
+
 What their Red Teamers do:
   - **Infrastructure** – Internal network
   - **Web Application** – Internally and Externally developed
@@ -65,7 +68,8 @@ What their Red Teamers do:
   - **Citrix and Kiosk breakouts** - escaping locked down machines such as those used by shopping centre checkouts and interactive map directories
 
 **Penetration Testing**
- Key notes taken:
+
+Key notes taken:
   - Command injection, navigate through integration directory to get the passwords’ dir “C:\Program Files\hMailServer\Data
   - Can utilise this to get reverse shell into system with netcad with – e option
   - Utilise Exploit Database – send mail with calmac-milter
@@ -92,6 +96,7 @@ What their Red Teamers do:
   - Always look at the exploit you’re going to run as there are dangerous commands and scripts in files
 
 **Famous technique, easy to detect though**
+
 Break out security system by:
   - Use browser to navigate to file explorer to open cmd
   - Run an .exe in full path it will try open it up as correct 
@@ -129,7 +134,9 @@ Break out security system by:
 
 
 **Introductory programs offered**
+
 GRADUATE PROGRAM/VOCATIONAL PROGRAM
+
 (Full-time & Part-time roles available)
   - Cyber department has family/team environment
   - Cyber Intelligence Centre (Incident Response, Pentesting, Red Teaming, Breaking stuff in general)
@@ -141,6 +148,7 @@ GRADUATE PROGRAM/VOCATIONAL PROGRAM
   - Go straight into Analyst work while also having professional consultant training in soft skills + your technical skills
 
 **Question Asked**:
+
 I asked what the average daily hours are for Graduate workers in Deloitte's Cyber
   - Typical work day is 9am-5:30pm, though some divisions are on a 24/7 rotational roster
 
