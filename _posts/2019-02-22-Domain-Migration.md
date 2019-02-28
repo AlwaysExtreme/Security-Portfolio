@@ -75,7 +75,7 @@ Adjust your website’s Security Level to determine which visitors will receive 
 
   - **HTTP/2** Accelerate your website with HTTP/2
 
-  - **IP Geolocation** mInclude the country code of the visitor location with all requests to your website. Note: You must retrieve the IP Geolocation information from the CF-IPCountry HTTP header.
+  - **IP Geolocation** Include the country code of the visitor location with all requests to your website. Note: You must retrieve the IP Geolocation information from the CF-IPCountry HTTP header.
 
 ___
 
