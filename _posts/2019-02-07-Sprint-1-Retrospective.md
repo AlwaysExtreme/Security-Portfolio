@@ -4,7 +4,7 @@ tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sp
 article_header:
   type: cover
 ---
-___
+
 # SPRINT 1 - INTRODUCTION
 
 [Portrait Picture](https://github.com/AlwaysExtreme/root9b/blob/master/Portfolio-Photo1.jpg)
@@ -116,8 +116,6 @@ With this, I learned how to further improve on my presentation and communication
 In the past week, I have learned more than I could have hoped for regarding offensive security that it has actually surprised me. Utilising the **Agile project planning methodology**, I've been able to reach all my goals in an effective and timely manner.
 
 In the coming weeks I hope to further deepen my theoretical and practical knowledge while achieving more of my key objectives mentioned in the aforementioned **"Learning Contract"**, of this Summer Studio - **"Cyber Security: An Offensive Mindset"**.
-
-![](/screenshots/Portfolio-Photo1.jpg)
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
