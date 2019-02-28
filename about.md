@@ -18,10 +18,13 @@ titles:
 key: page-about
 ---
 
+![alt text](/Portfolio-Photo1.jpg "Mitchell Tuck")
+
+
 My name is Mitchell Tuck......
 
 
-![alt text](/Portfolio-Photo1.jpg "Logo Title Text 1")
+
 
 
 
