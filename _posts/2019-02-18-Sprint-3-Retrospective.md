@@ -32,11 +32,13 @@ Was invited to join another group for Wednesdays Presentation so took them up on
   - Presented a case study on John the Ripper, and how this tool could be used to penetrate complex systems.
   - Finalising settings and understanding before Domain Migration begins.
 
-# **Industry Professionals Presentation** (10am to 12pm) by Deloitte.
+## **Industry Professionals Presentation** (10am to 12pm) by Deloitte
 Presenters:
 **Viren Khatri** - Manager;
+
 **Simon Baeg** – Analyst/Pentesting;
-**Nathan Jones** – Cyber intelligence centre Analyst.
+
+**Nathan Jones** – Cyber Intelligence Analyst.
 
 **What is penetration testing**
   - Thinking like criminals to find vulnerabilities so that they can be patched preventing the real criminals from finding them first.
@@ -45,7 +47,7 @@ Presenters:
   - Classified as white hat hackers can be divided into three teams, Red - Offensice, Blue - Defensive and Purple - Intimidary ensuring flow of information between the two.
   - Pentesters like to know how things work, computers/cctv/locks/elevators etc, look behind the curtains to figure out how to manipulate these.
 
-**What else they do**
+**Further aspects of their job**
   - Attack, management & cybersecurity
   - Report submissions, for example what’s wrong, how it was broken, how to fix and avoid that in the future
   - 3 key types of systems that are targeted, these are Physical (Locks), Human (Phishing tools), Cyber (access cards etc, internal systems, defence against disgruntled employees)
@@ -151,7 +153,7 @@ Artifact: got all three of their email addresses.
 
 
 
-### **My presentation excerpt**
+## **My presentation excerpt**
 [Cover Page](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/PresentationArtifact.png)
 
 (TITLE SLIDE)
@@ -212,7 +214,7 @@ But I’ll let Harry go into further details about these.
   - Migrated website over to new Domain. 
   - Worked on Deloitte VM
 
-### My Domain Migration Details:
+## My Domain Migration Details:
 [Link to Domain Setup](https://root9b.tech/2019/02/22/Domain-Migration.html)
 
 
