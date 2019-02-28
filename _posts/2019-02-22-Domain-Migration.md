@@ -24,7 +24,7 @@ GitHub is now configured.
 
 # Conversion to Cloudflare DNS
   - Created Cloudflare account
-  - Added Cloudflares two DNS to Domain Account DNS settings.
+  - Added Cloudflares two DNS to Domain Account DNS settings
 
 ## Security + Encryption features added:
 Added **Clodflares DNSSEC** to Domain account - protects against forged DNS answers.
@@ -78,6 +78,7 @@ Adjust your website’s Security Level to determine which visitors will receive 
   - **IP Geolocation** mInclude the country code of the visitor location with all requests to your website. Note: You must retrieve the IP Geolocation information from the CF-IPCountry HTTP header.
 
 ___
+
 ## [SPRINT 3 LINK](https://root9b.tech/2019/02/18/Sprint-3-Retrospective.html)
 
 ---
