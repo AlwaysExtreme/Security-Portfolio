@@ -53,7 +53,7 @@ Follow all rules laid out by the company in question, specifically:
 
 ___
 # Practical Experiment
-PentesterLab - XSS and MySQL FILE
+**PentesterLab - XSS and MySQL FILE**
 
   1) Configuring xss_and_mysq Virtual Machine with IP 192.168.44.44 (hosts the vulnerable website):
   
