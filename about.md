@@ -21,7 +21,6 @@ key: page-about
 My name is Mitchell Tuck......
 
 
-![alt text](/Portfolio-Photo1.jpg "Logo Title Text 1")
 
 
 [logo]: https://github.com/root9b/screenshots/Portfolio-Photo1.jpg "Logo Title Text 2"
