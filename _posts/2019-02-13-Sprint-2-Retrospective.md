@@ -3,13 +3,13 @@
 tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sprint-2
 
 ---
-# SPRINT 2 - Web Application Security
+# Sprint 2 - Web Application Security (WAS)
 
 
 # Problem statement
-I want to go from having theoretical knowledge of Web Application Security to being able to utilise WAS in a practical environment, to find and notify vulnerable parties.
+I want to go from having theoretical knowledge of Web Application Security to being able to utilise "WAS" in a practical environment, to find and notify vulnerable parties.
 
-
+___
 
 # Bug Bounties
 Every piece of technology ever developed or that ever will be developed will contain some form of bug, whether they are part of poorly written code or arise in future updates or integration with other code (such as plugins etc), there will always be bugs. Ethical hacking and Bug Bounties have changed the way businesses have approached these security threats in multiple ways. This can be broken down into two different impact vectors, these being:
