@@ -275,7 +275,7 @@ Next week I hope to learn more about the Boot2Root process and potentially imple
   - [DNS Visuliser](http://dnsviz.net/)
 
 
-## [SPRINT 3 LINK](https://root9b.tech/2019/02/25/Sprint-4-Retrospective.html)
+## [SPRINT 4 LINK](https://root9b.tech/2019/02/25/Sprint-4-Retrospective.html)
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
