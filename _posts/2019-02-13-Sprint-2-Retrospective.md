@@ -3,7 +3,7 @@
 tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sprint-2
 
 ---
-# Sprint 2 - Web Application Security (WAS)
+# SPRINT 2 - WEB APPLICATION SECURITY
 
 
 # Problem statement
