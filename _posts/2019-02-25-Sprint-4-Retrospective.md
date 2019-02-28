@@ -8,19 +8,25 @@ ___
 This week will be a journey dedicated to going from Boot to Root, in other words, breaking into vulnerable machines.
 
 ## Monday
+  - 
 
 ## Tuesday
-
+  - 
+  
 ## Wednesday
-
+  - 
+  
 ## Thursday
-
+  - 
+  
 ## Friday
-
+  - 
+  
 ## Saturday
-
+  - 
+  
 ## Sunday
-
+  - 
 
 
 
@@ -46,14 +52,22 @@ INTRO
 
 **Sunday** 
 
+# Issues
+  - We need to have UTS approve for our UNI Emblem to be displayed on Hack The Box, especially seeming Deakin and RMIT already have their Emblems up.
+  - 
+
 
 # Useful resources
-  - 
-  - 
-  - 
-  - 
+  - https://www.hackthebox.eu/
+  - https://binary.ninja/
+  - https://www.gnu.org/software/gdb/
+  - https://pypi.org/project/pwntools/
 
 
+
+## [PREVIOUS SPRINT LINK](https://root9b.tech/2019/02/18/Sprint-3-Retrospective.html)
+
+## [FINAL PORTFOLIO](https://root9b.tech/2019/03/04/Final-Portfolio-Reflection.html)
 
 
 ---
