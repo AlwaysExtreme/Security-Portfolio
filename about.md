@@ -16,7 +16,6 @@ titles:
   ko      : &KO       소개
   ko-KR   : *KO
 key: page-about
-/Portfolio-Photo1.jpg
 ---
 
 My name is Mitchell Tuck......
