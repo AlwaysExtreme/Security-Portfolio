@@ -285,6 +285,8 @@ Next week I hope to learn more about the Boot2Root process and potentially imple
   - [DNS Visuliser](http://dnsviz.net/)
 
 
+## [PREVIOUS SPRINT LINK](https://root9b.tech/2019/02/13/Sprint-2-Retrospective.html)
+
 ## [SPRINT 4 LINK](https://root9b.tech/2019/02/25/Sprint-4-Retrospective.html)
 
 ---
