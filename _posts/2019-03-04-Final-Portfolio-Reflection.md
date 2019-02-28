@@ -22,6 +22,10 @@ Over the past four weeks, I have gone from a beginner to an Boot2Root cabable as
 ## Sunday
 
 
+**MANDATORY (in reflection/s)
+✦A conclusion articulating how your learning journey has enabled you to meet or redefine your objectives
+✦A final reflective statement that synthesises your learning journey. Each subject learning objective is addressed in the final reflective statement indicating the ways in which the learning was achieved.
+✦Reflectively curated, relevant artefacts that form a coherent and cumulative substantiation of claims of achievement of the subject’s five Subject Learning Objectives**
 
 
 # Reflection
