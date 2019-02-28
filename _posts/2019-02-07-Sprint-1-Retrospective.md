@@ -3,8 +3,6 @@
 tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Sprint-1
 article_header:
   type: cover
-  image:
-    src: /Portfolio-Photo1.jpg
 ---
 ___
 # SPRINT 1 - INTRODUCTION
