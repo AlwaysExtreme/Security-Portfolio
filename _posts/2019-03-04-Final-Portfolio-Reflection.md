@@ -12,33 +12,11 @@ Over the past four weeks, I have gone from a beginner to a Boot2Root cabable Off
 **Cyber Security: An Offensive Mindset 2019**
 ## 1. Engage with stakeholders to identify a problem
 
-**Engage with cybersecurity experts and other industry stakeholders to identify system vulnerabilities, their consequences and complexities.**
-
-
 Engaged in conversation with Robert Mitchell a leading security industry expert who works for GitLab in their security team. An artefact I received from this conversation was Robs email address for future communications if ever we have a question. He mentioned that we should also read “Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier”. It was very beneficial having an industry expert come in and talk with the students as he answered all of our questions on the spot and made us think of more questions to ask. Further industry visits will be highly regarded.
 
-Feedback I received was:
+Viren Khatri - Manager, Simon Baeg – Analyst/Pentesting andNathan Jones – Cyber Intelligence Analyst from Deloitte where I was able to gain an in depth view of how enterprise level security teams function and specifically learned about Special Operation Command Centrees and Red Teams. Luke Fuehrer was able to educate me further on his role as a Red Teamer and was there throughout the weeks to answer any question I had to throw at him. And lastly, Ruben, who was able to educat me on Reverse Engineering and what steps are required to continue on building this skill to a level hopefully at his skill level one day.
 
-    I asked the question on the GitLab website, it states that GitLab has a 200% Faster DevOps Life-cycle, with this, what has been done to ensure the security aspect keeps up with such a fast life-cycle" he answered my question with "Automation and standardisation at all stages of the DevOps life-cycle (Continuous Innovation, Continuous Development (CI/CD).
-    When coming across an unexpected result, dig into this issue, it could be a new vulnerability as something most likely had just broke, utilise wire shark/logs etc for further detailed analysis of these.
-    Ensure to always maintain, monitor & respond to logs from IDS as this is always overlooked.
-    RFCs = Standards running the internet.
-    Some people have endless certifications and say they know about a certain software but they only know how it’s foundations and not how it functions and how to better it, i.e. Burp suite and pfSense, certifications are a start point, not an end-point.
-    If you want a job in this day and age it's a must to talk to people, both in our fields and others, via meetups, private communications and Social networking such as LinkedIn.
-    Approach interesting companies especially start-ups as they can sometimes be in hyper-growth and too busy to try searching for a security specialist to hire, or this aspect could have been over looked all together.
-    Lesson to learn from the Art of war by Sun Tzu – Always be ready.
-    Learn Grep commands to filter out the usual artefacts to find the unusual in logs etc.
-    Learn the OWASP top 10.
-    Learn SANS ASP Checklist – top down.
-
-With everything that I took home from this presentation I was able to open up a new chapter of research and methodology for focusing on my future security career. This presentation was invaluable to me especially at such an early stage in my career.
-
-
-
-
-
-
-
+With everything that I took home from these engagements with stakeholders, I was able to open up a new chapter of research and methodology for focusing on my future security career. These presentations were invaluable to me especially at such an early stage in my career.
 
 
 ## 2. Apply design thinking to respond to a defined or newly identified problem
@@ -51,13 +29,7 @@ A team member dropped out just before project one's presentation day, so we had 
 I began building my website by utilising a static website generator, this was something I had never done before. With this it required a lot of research for me to understand how everything worked. with this I learned the foundations of a static website and how it functions and was able to build a successful website.
 
 I further gained knowledge in how to work under pressure in a team environment from unexpected events effectively. With this, it greatly increased my confidence in knowing that when future situations like these arise I know I can overcome these obstacles.    
-    
-
-
-
-
-
-
+ 
 
 ## 3. Apply technical skills to develop, model and/or evaluate design
 
@@ -68,11 +40,6 @@ Presented a group research project to the class and participated in technical cl
 Began the configuration of my Kali Linux box Artefact 3: Kali Setup Also utilised VMware snapshots to ensure any potential errors in the future could be reversible. Artefact 4: Kali Backup
 
 With this, I further understood what was required of me to succeed in this studio.
-
-
-
-
-
 
 
 ## 4. Demonstrate effective collaboration and communication skills
@@ -98,10 +65,6 @@ They informed me that I went quite well in my presentation and for me to keep ge
 
 With this, I learned how to further improve on my presentation and communication skills, such as increasing strategic eye contact, increased expression with both relevant hand gestures and tone of voice.
 [Subject Highs, Lows + Overcome](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/HighsLowsOvercome.pdf)
-
-
-
-
 
 
 # Conclusion
