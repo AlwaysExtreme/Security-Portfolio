@@ -4,7 +4,7 @@ tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Fi
 ---
 ___
 
-# Portfolio Final Reflection
+# Final Reflection Introduction
 Over the past four weeks, I have gone from a beginner to a Boot2Root cabable Offensive Security Professional. During this intensive Summer Studio, I have developed numerous skills in project planning, communication, time management, physical security and IT based security particularly in Offensive Security.
 
 
@@ -21,12 +21,13 @@ With everything that I took home from these engagements with stakeholders, I was
 
 ## 2. Apply design thinking to respond to a defined or newly identified problem
 
-**Use problem solving and creative methodologies to identify security vulnerabilities
-    Document steps taken to overcome problems adding to the weekly sprint submissions e.g. a personal blog entry**
-    
-A team member dropped out just before project one's presentation day, so we had to have an emergency meeting for our group so that we were able to ensure we could mitigate the issue best we could and deliver on our side even though being down a member. Our group did a really good job in the circumstances we had.
+During week one, a team member dropped out just before group project one's presentation day, so we had to have an emergency meeting for our group so that we were able to ensure we could mitigate the issue best we could and deliver on our side even though being down a member. Our group did a really good job in the circumstances we had.
 
 I began building my website by utilising a static website generator, this was something I had never done before. With this it required a lot of research for me to understand how everything worked. with this I learned the foundations of a static website and how it functions and was able to build a successful website.
+
+Working with the issues that were brought about after the website migration, I was able to narrow down and identify the root cause of the website being down and how to get it back up and running, which in this case was a misconfiguration of the SSL Certificate, and so a temporary reduction in website security (Always HTTPS off/DNSSEC) brought back up the website.
+
+Also when coming into the technical practical events, It was rather quite a challenge to apply and learn new skills that were required to achieve my goal for the objective given. Doing Hack the Box where I had to figure out exploits after enumerating and doing Vulnerability scans was by far the hardest yet most rewarding. Even though it took many hours and late into the night, I was able to achieve root access to the box within the same day of setting that goal which was a massive achievement in itself.
 
 I further gained knowledge in how to work under pressure in a team environment from unexpected events effectively. With this, it greatly increased my confidence in knowing that when future situations like these arise I know I can overcome these obstacles.    
  
