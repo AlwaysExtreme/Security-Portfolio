@@ -105,21 +105,14 @@ With this, I learned how to further improve on my presentation and communication
 
 
 # Conclusion
-**articulating how your learning journey has enabled you to meet or redefine your objectives**
 
 The journey entailed from week one to now has been a non-stop cuntinous and intensive experience, it has enabled me to meet all 5 of the SLOs, each in depth, and has made me achieve multiple things that I had been planning to do but never had the time or the right environment to do so. Utilising the Agile project management methodolgy I have been able to achieve these in a very effective and timely manner far exceeding my expectations for this course.
 
-From the learning contract I built in week one through to the additional goalsd I had been setting each week, I have been able to achieve all of these and then and then some.
+I have enagaged with some of Australias best Industry professionals such as Robert Mitchell, Viren Khatri, Simon Baeg, Nathan Jones, Luke Fuehrer and Ruben, with them answering some of the questions I've had for a while but could only be answered by someone in the field. I have been able to apply design thinking to respond to a defined or newly identified problem multiple times throughout the Studio notably Website SSL Certificate errors, Team member dropping out and time management modifications I was constantly doind to optimise my time due to me working permanent part-time outside of this Summer Studio.
 
+Applied technical skills to develop, model and/or evaluate design on multiple occasions most notably during the Reverse Engineering challenges and the Hack the Box Curling machine. Communicated with individuals in Scrum sessions, worked with team members on projects, presented to the class and during my last week to Industry Professionals and the general public and Academic staff. During this process I've been able to do critical self and peer assessments during individiual and group presentations, scrum sessions and participation in Capture The Flags (CTFs).
 
-
-
-
-**✦A final reflective statement that synthesises your learning journey. Each subject learning objective is addressed in the final reflective statement indicating the ways in which the learning was achieved.
-✦Reflectively curated, relevant artefacts that form a coherent and cumulative substantiation of claims of achievement of the subject’s five Subject Learning Objectives**
-
-
-
+From the learning contract I built in week one through to the additional goals I had been setting each week, I have been able to achieve and exceed all of these while meeting all 5 SLOs. With my true test in week four cracking into my very first Hack the Box machine, I have proven that I have come a long way since week one, this in itself has boosted my confidence more then I could have ever imagined and has assured me that I am heading in the correct career direction.
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
