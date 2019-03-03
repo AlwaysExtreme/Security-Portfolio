@@ -9,7 +9,7 @@ This week will be a journey dedicated to going from Boot to Root, in other words
 
 ## Monday
   - Ruben presented the concepts of Reverse Engineering to us,
-  - I was successfully able to complete the first two challeneges as seen here: [Reverse Engineering Challenge](root9b/screenshots/ReverseEngineeringChallenge - Solution.pdf)
+  - I was successfully able to complete the first two challeneges as seen here: [Reverse Engineering Challenge](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/ReverseEngineeringChallenge%20-%20Solution.pdf)
   - Spent a few hours tonight doing further modifications to my website to get it loading faster.
       
 ## Tuesday
@@ -32,13 +32,13 @@ This week will be a journey dedicated to going from Boot to Root, in other words
 ## Thursday
   - I worked 9am-5:30pm in my IT Support Role.
   - Continued into the early hours of the morning ensuring that I had everything 100% ready for the presentations on Friday.
-  - [Artefact - Business Cards](/root9b/blob/master/screenshots/image.png)
-  - [Artefact - PiPotential](/root9b/blob/master/screenshots/PiPotential-Friday.docx)
+  - [Artefact - Business Cards](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/image.png)
+  - [Artefact - PiPotential](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/PiPotential-Friday.docx)
   
 ## Friday
   - Presented to multiple members of the public and university staff regarding what I had done to date throughout this course and educated them on some of the latest technologies out there and how it attacks or defends them.
-  - [Artefact - Mid Presentation](/root9b/blob/master/screenshots/Mid-Presentation.JPG)
-  - [Artefact - Presentation](/root9b/blob/master/screenshots/Presentation.JPG)
+  - [Artefact - Mid Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Mid-Presentation.JPG)
+  - [Artefact - Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Presentation.JPG)
   
 ## Saturday
   - I worked 9am-5:30pm in my IT Support Role.
