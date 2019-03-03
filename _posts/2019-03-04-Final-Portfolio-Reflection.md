@@ -5,7 +5,7 @@ tags: Cybersecurity, UTS, Summer-Studio, Cyber-Security-An-Offensive-Mindset, Fi
 ___
 
 # Portfolio Final Reflection
-Over the past four weeks, I have gone from a beginner to a Boot2Root cabable Offensive Security Professional. 
+Over the past four weeks, I have gone from a beginner to a Boot2Root cabable Offensive Security Professional. During this intensive Summer Studio, I have developed numerous skills in project planning, communication, time management, physical security and IT based security particularly in Offensive Security.
 
 
 # Subject Learning Outcomes
@@ -107,9 +107,11 @@ With this, I learned how to further improve on my presentation and communication
 # Conclusion
 **articulating how your learning journey has enabled you to meet or redefine your objectives**
 
-n the past week, I have learned more than I could have hoped for regarding offensive security that it has actually surprised me. Utilising the Agile project planning methodology, I've been able to reach all my goals in an effective and timely manner.
+The journey entailed from week one to now has been a non-stop cuntinous and intensive experience, it has enabled me to meet all 5 of the SLOs, each in depth, and has made me achieve multiple things that I had been planning to do but never had the time or the right environment to do so. Utilising the Agile project management methodolgy I have been able to achieve these in a very effective and timely manner far exceeding my expectations for this course.
 
-In the coming weeks I hope to further deepen my theoretical and practical knowledge while achieving more of my key objectives mentioned in the aforementioned "Learning Contract", of this Summer Studio - "Cyber Security: An Offensive Mindset".
+From the learning contract I built in week one through to the additional goalsd I had been setting each week, I have been able to achieve all of these and then and then some.
+
+
 
 
 
