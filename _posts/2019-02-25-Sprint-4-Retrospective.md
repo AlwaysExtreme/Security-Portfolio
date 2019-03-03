@@ -11,16 +11,25 @@ This week will be a journey dedicated to going from Boot to Root, in other words
   - 
 
 ## Tuesday
-  - 
+  - Set up my account for HTB
+    - How to set up HTB
+    - Pass HTB’s initial login challenge
+    - Create an account
+    - Go to “Access” tab
+    - Download connection pack and save to a local directory of your choice
+    - Navigate to this directory via Terminal and run the “openvpn (YourFileName).ovpn”
+    - Once this is run go back to HTB and where the HTB Lab Access Details are, click the small refresh button (DO NOT TOUCH REGENERATE!).
+    - You can now penetrate the machines.
+
   
 ## Wednesday
-  - 
+  - Completed the Curling Hack the Box by gaining root access.
   
 ## Thursday
   - 
   
 ## Friday
-  - 
+  - Presented to multiple members of the public and university about what I had done to date
   
 ## Saturday
   - 
@@ -62,7 +71,8 @@ INTRO
   - https://binary.ninja/
   - https://www.gnu.org/software/gdb/
   - https://pypi.org/project/pwntools/
-
+  - https://github.com/pentestmonkey/php-reverse-shell
+  - https://gchq.github.io/CyberChef/
 
 
 ## [PREVIOUS SPRINT LINK](https://root9b.tech/2019/02/18/Sprint-3-Retrospective.html)
