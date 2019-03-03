@@ -8,9 +8,9 @@ ___
 This week will be a journey dedicated to going from Boot to Root, in other words, breaking into vulnerable machines.
 
 ## Monday
-  - Ruben presented the concepts of Reverse Engineering to us,
+  - Ruben presented the concepts of Reverse Engineering to us, giving us great insight into his field
   - I was successfully able to complete the first two challenges as seen here: [Reverse Engineering Challenge](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/ReverseEngineeringChallenge%20-%20Solution.pdf)
-  - Spent a few hours tonight doing further modifications to my website to get it loading faster.
+  - Spent a few hours tonight doing further modifications to my website to get it loading faster
       
 ## Tuesday
   - Set up my account for HTB
@@ -20,14 +20,14 @@ This week will be a journey dedicated to going from Boot to Root, in other words
     - Go to “Access” tab
     - Download connection pack and save to a local directory of your choice
     - Navigate to this directory via Terminal and run the “openvpn (YourFileName).ovpn”
-    - Once this is run go back to HTB and where the HTB Lab Access Details are, click the small refresh button (DO NOT TOUCH REGENERATE!).
-    - You can now penetrate the machines.
+    - Once this is run go back to HTB and where the HTB Lab Access Details are, click the small refresh button (DO NOT TOUCH REGENERATE!)
+    - You can now penetrate the machines
   - Further investigated HTB's features and how everything functions
 
   
 ## Wednesday
-  - Completed the Curling Hack the Box by gaining root access.
-  - Did a private writeup regarding this for my own personal use.
+  - Completed the Curling Hack the Box by gaining root access
+  - Did a private writeup regarding this for my own personal use
   
 ## Thursday
   - I worked 9am-5:30pm in my IT Support Role.
@@ -60,12 +60,12 @@ I spoke with Max and Frank about the Hack the Box challenge, they agreed that th
 
 Most of this week was spent expanding my knowledge base and practical experiments to prepare myself for my first box to root and the remaining time was spent on finishing off my website in preparation for Mondays final submission and preparation for Friday's presentation. Friday's presentation to industry, civilian and University staff expanded on my communications skills allowing me to be able to communicate to people with different knowledge bases, picking up keywords to know whether they'd like to know more or less of the technical details to maximise what they are able to get out of my talk.
 
-This past week has summed up my hard work allowing me to achieve my goals and give me a jump start into the practical side of IT Security, particularly that of Offensive Security. I hope to continue expanding on this foundation of knowledge working with my new friends to achieve our goals.
+This past week has summed up my hard work allowing me to achieve my goals and give me a jump start into the practical side of IT Security, particularly that of Offensive Security. I hope to continue expanding on this foundation of knowledge working with my new friends to achieve our goals. I also aspire to increase my universities ranking from #18 to #1 on Hack the Box with the help of our IT Security students and UTS Cyber Security Society, [UTS Current Ranking](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/UTS-Ranking.png).
 
 
 # Issues
-  - We need to have UTS approve for our UNI Emblem to be displayed on Hack The Box, especially seeming Deakin and RMIT already have their Emblems up.
-  - I don't want this Summer Studio subject to end.
+  - We need to have UTS approve for our UNI Emblem to be displayed on Hack The Box, especially seeming Deakin and RMIT already have their Emblems up
+  - I don't want this Summer Studio subject to end
 
 
 # Useful resources
