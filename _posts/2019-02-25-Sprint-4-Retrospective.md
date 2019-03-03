@@ -9,7 +9,7 @@ This week will be a journey dedicated to going from Boot to Root, in other words
 
 ## Monday
   - Ruben presented the concepts of Reverse Engineering to us,
-  - I was successfully able to complete the first two challeneges as seen here: [Reverse Engineering Challenge](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/ReverseEngineeringChallenge%20-%20Solution.pdf)
+  - I was successfully able to complete the first two challenges as seen here: [Reverse Engineering Challenge](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/ReverseEngineeringChallenge%20-%20Solution.pdf)
   - Spent a few hours tonight doing further modifications to my website to get it loading faster.
       
 ## Tuesday
@@ -53,30 +53,19 @@ This week will be a journey dedicated to going from Boot to Root, in other words
 
 
 # Reflection
-**This submission should be a full-fledged reflection of this week (18/02 - 22/02):
-Reflect on your learnings from Monday to Friday, be sure to be inclusive of the face-to-face hours and the work you have conducted outside of these hours.
-Write about your free-4-all reflection(s) and what you have learnt from each other throughout the week.
 
+Over the past week, I was able to achieve the goal I had set out in week one, I was successfully able to penetrate a vulnerable box and gain root privileges. I also was able to learn from Ruben in regards to Reverse Engineering, I had very minimal knowledge in this field but he was able to spike my interest and need for learning more about this as it was fun yet has multiple useful purposes in IT Security.
 
-INTRO
+I spoke with Max and Frank about the Hack the Box challenge, they agreed that this is one of the best methods we can utilise to expand and continue building onto our skills in Offensive Security. We do however hope to form a group of individuals for meetups potentially in preparation for CySCA 2019 so that we can be prepared and do well.
 
-**Monday**
+Most of this week was spent expanding my knowledge base and practical experiments to prepare myself for my first box to root and the remaining time was spent on finishing off my website in preparation for Mondays final submission and preparation for Friday's presentation. Friday's presentation to industry, civilian and University staff expanded on my communications skills allowing me to be able to communicate to people with different knowledge bases, picking up keywords to know whether they'd like to know more or less of the technical details to maximise what they are able to get out of my talk.
 
-**Tuesday**
+This past week has summed up my hard work allowing me to achieve my goals and give me a jump start into the practical side of IT Security, particularly that of Offensive Security. I hope to continue expanding on this foundation of knowledge working with my new friends to achieve our goals.
 
-**Wednesday**
-
-**Thursday**
-
-**Friday**
-
-**Saturday**
-
-**Sunday** 
 
 # Issues
   - We need to have UTS approve for our UNI Emblem to be displayed on Hack The Box, especially seeming Deakin and RMIT already have their Emblems up.
-  - 
+  - I don't want this Summer Studio subject to end.
 
 
 # Useful resources
