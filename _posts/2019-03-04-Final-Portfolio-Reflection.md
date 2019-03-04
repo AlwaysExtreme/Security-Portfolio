@@ -56,8 +56,6 @@ During week four I also created a Vulnerability Assessment for a successful atta
 
 ## 5. Conduct critical self and peer review and performance evaluation
 
-**Reflect on the tools and resources required to facilitate self-study and discovery in order to solve security problems**
-
 From my one on one with Larry, I was able to gain very beneficial information on how I could improve and given details on topics and resources I could benefit from by both Larry & Darshil.
 
 They informed me that I went quite well in my presentations and for me to keep furthering my skills in applying different communication methods to address the different audiences, which can prove useful when it involves executives and their employees who are in another field.
