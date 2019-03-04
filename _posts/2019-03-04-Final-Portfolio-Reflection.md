@@ -43,15 +43,15 @@ Presented a group reasearch project on John the Ripper and it's ability to crack
 
 ## 4. Demonstrate effective collaboration and communication skills
 
-**Communicate key impacts and consequences of security vulnerabilities and potential threats with various audiences.
- 
 Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread, while also pulling this off when our team member dropped out of the subject, by effectively communicating over Slack and Microsoft Teams. We identified that communication is very important, it is one of the foundations of what makes a true leader and a team successful.
 
-Presented Highlights, Lowlights and roadblocks in weekly Scrum meetings which we all were able to collaborate and gain useful insights to this subject from each persons experience. We were able to talk about the leading vulnerabilities we were 
+Presented weekly Highlights, Lowlights and Roadblocks in weekly Scrum meetings which we all were able to collaborate and gain useful insights on the subject matter for each week from what each person experienced. We were able to talk about the leading vulnerabilities we had investigated during the week and learned from each other. We found that active listening to what others had to say was very important, and taking notes from each other for future reference.
 
-During Scrum sessions, contributed to these while also actively listening to what others had to say, noting these down for future use.
+During week four, we presented our findings and journey to numerous University academics, staff, students and members of the public in which we had to tailour our level of technical language to each individual ensuring they weren't getting lost and that we were providing those wanting the detail with everything they required. I also stressed the need for strong passwords and to only use a password for one account and not many due to the fact that if one account is breached, all others are potentially going to be breached soon after.
 
-Created a Vulnerability Assessment and submitted it for review via UTS Online as per request.
+I demonstrated the different types of tools that can be utilised to attack them, and other tools that they can implement within their networks to protect themselves. I was also able to hand out a business card to them so that if they had any further questions they were able to reach out to me. 
+
+During week four I also created a Vulnerability Assessment for a successful attack I did on a companies web server and submitted it for review via UTS Online as per request of my instructors. This detailed everything from the objective I had in the beginning, the tools I used, the vulnerabilities I exploited, what I gained access too, what they can do to mitigate the issue followed by an executive summary at the end.
 
 
 ## 5. Conduct critical self and peer review and performance evaluation
