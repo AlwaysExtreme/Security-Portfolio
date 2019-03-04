@@ -69,7 +69,7 @@ With this, I learned how to further improve on my presentation and communication
 # Conclusion
 
 
-<div style="text-align: center"><img src="https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Mid-Presentation.JPG" width="300" /></div>
+<div style="text-align: center"><img src="/AlwaysExtreme/root9b/blob/master/screenshots/Mid-Presentation.JPG" width="300" /></div>
 
 
 The journey entailed from week one to now has been a non-stop cuntinous and intensive experience, it has enabled me to meet all 5 of the SLOs, each in depth, and has made me achieve multiple things that I had been planning to do but never had the time or the right environment to do so. Utilising the Agile project management methodolgy I have been able to achieve these in a very effective and timely manner far exceeding my expectations for this course.
