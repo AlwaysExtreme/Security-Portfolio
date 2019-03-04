@@ -44,13 +44,15 @@ Presented a group reasearch project on John the Ripper and it's ability to crack
 ## 4. Demonstrate effective collaboration and communication skills
 
 **Communicate key impacts and consequences of security vulnerabilities and potential threats with various audiences.
-    Demonstrate effective collaboration and communication skills through active participation on the studio’s Microsoft Teams chat, amongst peers in the classroom and through your online weekly sprint submissions (not Wordpress, Wix , Weebly or similar, be creative).
-Present weekly findings either in groups or as a stand ups to discuss the milestones, challenges, and what roadblocks are encountered.**
-
-
+ 
 Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread, pulling it off even with our team member leaving by effectively communicating over Slack and Microsoft Teams.
 
 We did a good job of communicating to pull our team through the presentation. With this we identified that communication is very important, it is one of the foundations of what makes a true leader and a team successful.
+
+Created a Vulnerability Assessment and submitted it for review
+Presented details in weekly sprints
+
+During Scrum sessions, contributed to these while also actively listening to what others had to say, noting these down for future use.
 
 
 ## 5. Conduct critical self and peer review and performance evaluation
@@ -69,7 +71,7 @@ With this, I learned how to further improve on my presentation and communication
 # Conclusion
 
 
-<div style="text-align: center"><img src="/screenshots/Mid-Presentation.JPG" width="300" /></div>
+<div style="text-align: center"><img src="/screenshots/Mid-Presentation.jpg" width="300" /></div>
 
 
 The journey entailed from week one to now has been a non-stop cuntinous and intensive experience, it has enabled me to meet all 5 of the SLOs, each in depth, and has made me achieve multiple things that I had been planning to do but never had the time or the right environment to do so. Utilising the Agile project management methodolgy I have been able to achieve these in a very effective and timely manner far exceeding my expectations for this course.
