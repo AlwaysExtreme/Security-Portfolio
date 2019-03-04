@@ -45,14 +45,13 @@ Presented a group reasearch project on John the Ripper and it's ability to crack
 
 **Communicate key impacts and consequences of security vulnerabilities and potential threats with various audiences.
  
-Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread, pulling it off even with our team member leaving by effectively communicating over Slack and Microsoft Teams.
+Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread, while also pulling this off when our team member dropped out of the subject, by effectively communicating over Slack and Microsoft Teams. We identified that communication is very important, it is one of the foundations of what makes a true leader and a team successful.
 
-We did a good job of communicating to pull our team through the presentation. With this we identified that communication is very important, it is one of the foundations of what makes a true leader and a team successful.
-
-Created a Vulnerability Assessment and submitted it for review
-Presented details in weekly sprints
+Presented Highlights, Lowlights and roadblocks in weekly Scrum meetings which we all were able to collaborate and gain useful insights to this subject from each persons experience. We were able to talk about the leading vulnerabilities we were 
 
 During Scrum sessions, contributed to these while also actively listening to what others had to say, noting these down for future use.
+
+Created a Vulnerability Assessment and submitted it for review via UTS Online as per request.
 
 
 ## 5. Conduct critical self and peer review and performance evaluation
@@ -70,9 +69,7 @@ With this, I learned how to further improve on my presentation and communication
 
 # Conclusion
 
-
-<div style="text-align: center"><img src="/screenshots/Mid-Presentation.jpg" width="300" /></div>
-
+[Photo from Presentation](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/Mid-Presentation.JPG)
 
 The journey entailed from week one to now has been a non-stop cuntinous and intensive experience, it has enabled me to meet all 5 of the SLOs, each in depth, and has made me achieve multiple things that I had been planning to do but never had the time or the right environment to do so. Utilising the Agile project management methodolgy I have been able to achieve these in a very effective and timely manner far exceeding my expectations for this course.
 
@@ -81,6 +78,11 @@ I have enagaged with some of Australias best Industry professionals such as Robe
 Applied technical skills to develop, model and/or evaluate design on multiple occasions most notably during the Reverse Engineering challenges and the Hack the Box Curling machine. Communicated with individuals in Scrum sessions, worked with team members on projects, presented to the class and during my last week to Industry Professionals and the general public and Academic staff. During this process I've been able to do critical self and peer assessments during individiual and group presentations, scrum sessions and participation in Capture The Flags (CTFs).
 
 From the learning contract I built in week one through to the additional goals I had been setting each week, I have been able to achieve and exceed all of these while meeting all 5 SLOs. With my true test in week four cracking into my very first Hack the Box machine, I have proven that I have come a long way since week one, this in itself has boosted my confidence more then I could have ever imagined and has assured me that I am heading in the correct career direction.
+
+
+## [PREVIOUS SPRINT LINK](https://root9b.tech/2019/02/25/Sprint-4-Retrospective.html)
+
+## [About the Author](https://root9b.tech/about.html)
 
 ---
 Please feel free to [contact me via email](mailto:mitchell.l.tuck@student.uts.edu.au) if you have any questions.
