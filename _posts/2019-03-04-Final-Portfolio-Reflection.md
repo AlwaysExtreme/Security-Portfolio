@@ -56,15 +56,13 @@ During week four I also created a Vulnerability Assessment for a successful atta
 
 ## 5. Conduct critical self and peer review and performance evaluation
 
-**Utilise weekly feedback forms to aid personal and team growth, areas for improvement, team dynamic, and any discoveries made during this evaluation
-    Reflect on the tools and resources required to facilitate self-study and discovery in order to solve security problems**
+**Reflect on the tools and resources required to facilitate self-study and discovery in order to solve security problems**
 
 From my one on one with Larry, I was able to gain very beneficial information on how I could improve and given details on topics and resources I could benefit from by both Larry & Darshil.
 
-They informed me that I went quite well in my presentation and for me to keep getting more technical but also having the ability to simplify it so that those without the technical knowledge such as executives in other fields and their employees in the work place, and the general public, can understand what is being said.
+They informed me that I went quite well in my presentations and for me to keep furthering my skills in applying different communication methods to address the different audiences, which can prove useful when it involves executives and their employees who are in another field.
 
-With this, I learned how to further improve on my presentation and communication skills, such as increasing strategic eye contact, increased expression with both relevant hand gestures and tone of voice.
-[Subject Highs, Lows + Overcome](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/HighsLowsOvercome.pdf)
+With this, I learned how to further improve on my presentation and communication skills, such as increasing strategic eye contact, increased expression with both relevant hand gestures and tone of voice and communicating with different levels of technical knowledge. [Subject Highs, Lows + Overcome](https://github.com/AlwaysExtreme/root9b/blob/master/screenshots/HighsLowsOvercome.pdf)
 
 
 # Conclusion
