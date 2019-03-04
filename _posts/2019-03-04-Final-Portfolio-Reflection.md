@@ -34,13 +34,11 @@ I further gained knowledge in how to work under pressure in a team environment f
 
 ## 3. Apply technical skills to develop, model and/or evaluate design
 
-**Research security vulnerabilities and exploits and be able to apply this research to evaluate the security state of a system to document attack vectors and their mitigations.**
-
 Presented a group research project to the class and participated in technical class discussions. Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. I explained the issue in depth and brought up interesting terminology such as heap spraying.
 
-Began the configuration of my Kali Linux box Artefact 3: Kali Setup Also utilised VMware snapshots to ensure any potential errors in the future could be reversible. Artefact 4: Kali Backup
+Looked into the Heartbleed vulnerability and utilised it to access password and username details from memory thus being able to access the affected device. I was able to show that not only do systems require encryption, but in the case of Heartbleed, it  is extremely important to keep up to date with the latest patches for your system as it was able to retrieve plaintext data from data encrypted by the OpenSSL library.
 
-With this, I further understood what was required of me to succeed in this studio.
+Presented a group reasearch project on John the Ripper and it's ability to crack weak passwords with ease, this showed that it is extremely important to implement strong passwords using a combination of case sensitive letters, numbers and symbols (!, #, %, #, $, etc.). It's also important to never use the same password once, if one password becomes breached, all your other accounts would thus be vulnerable also.
 
 
 ## 4. Demonstrate effective collaboration and communication skills
