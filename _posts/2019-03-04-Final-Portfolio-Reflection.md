@@ -34,7 +34,7 @@ I further gained knowledge in how to work under pressure in a team environment f
 
 ## 3. Apply technical skills to develop, model and/or evaluate design
 
-Presented a group research project to the class and participated in technical class discussions. Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. I explained the issue in depth and brought up interesting terminology such as heap spraying.
+Presented a group research project to the class and participated in technical class discussions. Did in-depth research to understand the deeper aspects of the 2011 RSA Security breach and what was involved to pull off such a feat. I explained the issue in depth and brought up interesting terminology such as heap spraying as well as identifying the vulnerability to be CVE-2011-0609 and how it had eventuated from a failure withing ActionScript3 AVM2 verification logic thus resulting in unsafe Just-In-Time (JIT) code being executed.
 
 Looked into the Heartbleed vulnerability and utilised it to access password and username details from memory thus being able to access the affected device. I was able to show that not only do systems require encryption, but in the case of Heartbleed, it  is extremely important to keep up to date with the latest patches for your system as it was able to retrieve plaintext data from data encrypted by the OpenSSL library.
 
@@ -48,7 +48,7 @@ Presented a group reasearch project on John the Ripper and it's ability to crack
 Present weekly findings either in groups or as a stand ups to discuss the milestones, challenges, and what roadblocks are encountered.**
 
 
-Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread. Pulled off the group presentation regarding the issue with our team member leaving by effectively communicating over Slack, Microsoft Teams & Facebook messenger.
+Identified through a group presentation how social engineering has a huge impact on the way malware is able to spread, pulling it off even with our team member leaving by effectively communicating over Slack and Microsoft Teams.
 
 We did a good job of communicating to pull our team through the presentation. With this we identified that communication is very important, it is one of the foundations of what makes a true leader and a team successful.
 
